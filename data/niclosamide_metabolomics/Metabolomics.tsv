@@ -1,0 +1,641 @@
+ID	Strain	Concentration	Drug_treatment	Technical_replicate	Biological_replicate	Experiment_number	MeasuredDrug_TimePoint	MeasuredDrug	TimePoint	MSdata
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	1.2884
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	1.2850000000000001
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	1.7318
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	4.6002
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	5.5716
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	2.9786
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.4106
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0.46540000000000004
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	1.089
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.48460000000000003
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	amino_t0	amino	t0	0.114
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.3366
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0.255
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.038200000000000005
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0.43520000000000003
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.3708
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0.3296
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0.2076
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0.24960000000000002
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	amino_t0	amino	t0	0
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	amino_t0	amino	t0	0
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	amino_t0	amino	t0	0.1388
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	amino_t0	amino	t0	1.0612000000000001
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.05901000000000001
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.05487
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.049510000000000005
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.08619
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.07034
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.09194000000000001
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.01024
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.09104000000000001
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.09481
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.07794000000000001
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.29684000000000005
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.30460000000000004
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.31111000000000005
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.26592000000000005
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.27912000000000003
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.24801
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.015600000000000001
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.08311
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.08326
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.0787
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.00842
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.08633
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.07858000000000001
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.11193000000000002
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.02261
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.021380000000000003
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.0117
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.00408
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0.08620000000000001
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.06547
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.04889
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	amino_t0	amino	t0	0.05591
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	amino_t0	amino	t0	0
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	amino_t0	amino	t0	0.027800000000000002
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	amino_t0	amino	t0	0.030520000000000002
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	amino_t0	amino	t0	0.015050000000000001
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.2660508
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	5.054544
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	6.3721368
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	8.981649899999999
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.5480415
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	5.1263064
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	7.3664523
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	5.513897699999999
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.1340505
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	9.7023744
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	10.7899281
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	11.061177299999999
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.0855045
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	0.0867213
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	0.0571329
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	niclo_t0	niclo	t0	0.060381899999999995
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.0717579
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	10.4282811
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	9.5321061
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	11.3530824
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.076365
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	10.1831373
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	9.6215805
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	11.327895
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.07146899999999999
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	10.690995599999999
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	11.3614605
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	10.8313092
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.0716058
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	10.6778052
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	10.817038799999999
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	10.799669699999999
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	0.07166249999999999
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	9.9794439
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	9.9901386
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	10.1940525
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	niclo_t0	niclo	t0	8.2855881
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	niclo_t0	niclo	t0	8.4688812
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	niclo_t0	niclo	t0	8.5607271
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	niclo_t0	niclo	t0	9.0905256
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.001645
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	9.546025
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	7.436393
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	8.518892
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.104664
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	10.067147
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	9.223415
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	9.279948
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.12759399999999999
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	8.634663999999999
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	9.023978999999999
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	8.036615
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.105304
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	8.651945
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	9.433506999999999
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	9.651621
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.127364
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	8.278981
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	8.463054
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	8.673803999999999
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.11935399999999999
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	7.5546
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	8.166492
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	8.262195
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.109164
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	9.03157
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	8.791815999999999
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	10.097396999999999
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.130124
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	8.491700999999999
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	8.884649999999999
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	9.272749
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	8.96384
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	8.491537
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	8.943890999999999
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	niclo_t0	niclo	t0	9.990523
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	niclo_t0	niclo	t0	0.028305
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	niclo_t0	niclo	t0	0.022587
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	niclo_t0	niclo	t0	0.018487
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	niclo_t0	niclo	t0	0.014523999999999999
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.18760000000000002
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	2.12
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	1.8578000000000001
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	0.30860000000000004
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.8672000000000001
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	4.6418
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	6.9546
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	5.4514000000000005
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	4.224200000000001
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	4.4644
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	2.7982
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.192
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	0
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	amino_t2	amino	t2	0
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.2164
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	2.9636
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	1.9154
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	2.6936
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.1306
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	3.395
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	5.595400000000001
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	3.9352
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.0902
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	0.29000000000000004
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	0
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	2.2720000000000002
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	3.6754000000000002
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	3.2354000000000003
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.0882
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	1.2208
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	1.0402
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	1.3428
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	amino_t2	amino	t2	0.1454
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	amino_t2	amino	t2	1.5
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	amino_t2	amino	t2	1.2946
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	amino_t2	amino	t2	1.3848
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.66051
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	0.7383900000000001
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.6575000000000001
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.7574900000000001
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	0.6846800000000001
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.6424500000000001
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.011500000000000002
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	1.25126
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	1.3909900000000002
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	1.1389200000000002
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	4.74059
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	6.28826
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	5.993180000000001
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.031290000000000005
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	5.35106
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	5.980510000000001
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	5.644410000000001
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.94003
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	1.1205900000000002
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.9158100000000001
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.012830000000000001
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	2.2547200000000003
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	2.2842700000000002
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	1.8096200000000002
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.03166
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.0625
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	0.049190000000000005
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.07400000000000001
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.6140000000000001
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	0.7538300000000001
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.72833
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	amino_t2	amino	t2	0.6565500000000001
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	amino_t2	amino	t2	0.09967000000000001
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	amino_t2	amino	t2	0
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	amino_t2	amino	t2	0.04882
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	amino_t2	amino	t2	0.02142
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	6.4762803
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	5.8669461
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	8.3770209
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	3.7149183
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	3.5383077
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	3.5544455999999998
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0034578
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	5.5934766
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	5.7320451
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	4.8495807
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	0.005650199999999999
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	niclo_t2	niclo	t2	0.002088
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0218133
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	7.9828569
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	7.4756655
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	7.9095401999999995
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0144297
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	5.5512954
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	6.0416019
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	5.4258345
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0095949
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	8.9760906
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	9.0994419
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	10.425956399999999
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0176346
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	7.2777221999999995
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	6.8539302
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	6.334613999999999
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	0.0153441
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	7.954319699999999
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	8.577063899999999
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	8.330856299999999
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	niclo_t2	niclo	t2	7.3072773
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	niclo_t2	niclo	t2	7.207507799999999
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	niclo_t2	niclo	t2	7.924797
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	niclo_t2	niclo	t2	5.3941455
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.012246
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	8.086127
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	9.845825
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	8.830062
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.11143
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	8.837721
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	8.324273
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	7.3312599999999994
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.11243099999999999
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	7.015193999999999
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	8.095937
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	6.310708
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.09944199999999999
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	3.4470899999999998
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	4.608264
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	4.532813
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.070052
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	4.592655
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	5.347015
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	4.7530399999999995
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.161315
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	7.433834999999999
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	8.535492999999999
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	8.486272999999999
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.13599999999999998
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	8.671793
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	8.08729
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	8.010788
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.14027699999999999
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	8.991605999999999
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	9.402586
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	11.266385999999999
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	9.439968
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	10.215627
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	10.256177
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	niclo_t2	niclo	t2	9.168194999999999
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	niclo_t2	niclo	t2	0.033246
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	niclo_t2	niclo	t2	0.026653999999999997
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	niclo_t2	niclo	t2	0.012990999999999999
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	niclo_t2	niclo	t2	0.016094999999999998
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0.3196
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	3.7048
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	3.7228000000000003
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	2.9010000000000002
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	7.135800000000001
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	8.984
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	6.5440000000000005
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0.5724
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	6.836600000000001
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	8.632
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	5.4830000000000005
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	0.2268
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	amino_t3	amino	t3	0.113
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0.2914
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	5.3752
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	4.5126
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	4.848800000000001
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	7.393400000000001
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	9.9318
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	7.8548
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	0.334
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	0.5234
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	2.9782
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	4.5956
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	4.407
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	2.5884
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	3.0964
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	2.1302000000000003
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	amino_t3	amino	t3	3.0908
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	amino_t3	amino	t3	2.1564
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	amino_t3	amino	t3	1.6808
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	amino_t3	amino	t3	2.2352000000000003
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.64953
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	0.7834000000000001
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	0.8700800000000001
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.017660000000000002
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.71184
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	0.8299900000000001
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	0.6547000000000001
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.0033000000000000004
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	2.30567
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	1.8996300000000002
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	2.33861
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.02409
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	7.32948
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	7.5772900000000005
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	6.365620000000001
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.06386
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	5.367260000000001
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	5.497470000000001
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	4.98359
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	1.4637000000000002
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	1.5102000000000002
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	1.2092200000000002
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.006450000000000001
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	2.9014300000000004
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	3.3135900000000005
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	3.3799400000000004
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.0529
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.13517
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	0.13078
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	0.13066
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.8589500000000001
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	0.78739
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	0.72872
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	amino_t3	amino	t3	0.8186300000000001
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	amino_t3	amino	t3	0.09422000000000001
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	amino_t3	amino	t3	0
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	amino_t3	amino	t3	0
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	amino_t3	amino	t3	0.00952
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0.0129717
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	6.1101297
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	6.7441094999999995
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	5.3731026
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	1.8870003
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	1.7164412999999998
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	1.3187636999999999
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0.0078651
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	4.4260524
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	4.1845725
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	4.0851216
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	0.0070515
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	niclo_t3	niclo	t3	0.0234072
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0.0110475
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	6.192658799999999
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	6.1661952
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	6.7410963
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0.010610999999999999
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	2.857167
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	2.8699002
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	2.9590101
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	7.8046622999999995
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	8.3456046
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	9.5441121
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0.0134361
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	4.5010017
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	6.0992865
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	6.3957834
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	9.0664848
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	7.9768881
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	7.9264871999999995
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	niclo_t3	niclo	t3	4.9323159
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	niclo_t3	niclo	t3	6.3806949
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	niclo_t3	niclo	t3	6.1423254
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	niclo_t3	niclo	t3	6.3185661
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.013512999999999999
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	4.7734499999999995
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	5.99019
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	6.841583
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.087333
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	5.153343
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	6.586590999999999
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	5.548398
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.090059
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	5.8467459999999996
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	4.708157
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	5.95263
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.08552799999999999
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	1.6727319999999999
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	1.6627809999999998
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	1.482786
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.0326
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	1.844472
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	1.963785
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	1.812063
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.072771
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	5.49003
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	5.583551
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	6.191057
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.113079
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	4.286632
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	4.889633
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	5.230602
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.070313
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	6.923394
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	8.669213
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	8.809225999999999
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	8.178014
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	6.805974
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	6.672358
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	niclo_t3	niclo	t3	7.0759419999999995
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	niclo_t3	niclo	t3	0.021741999999999997
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	niclo_t3	niclo	t3	0.016825
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	niclo_t3	niclo	t3	0.014433
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	niclo_t3	niclo	t3	0.015033
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.0534
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	5.1146
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	6.7654000000000005
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	5.6968000000000005
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	10.1084
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	10.6282
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	9.142000000000001
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.1724
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	8.4258
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	10.280000000000001
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	7.8588000000000005
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	0.14600000000000002
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	0.18860000000000002
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	amino_t5	amino	t5	0.394
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	8.63
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	6.3456
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	6.796
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.2902
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	9.403
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	12.246
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	9.756
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.8464
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	0
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	0.37420000000000003
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.16720000000000002
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	4.8726
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	6.1808000000000005
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	5.8078
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	0.38680000000000003
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	2.724
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	2.2046
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	2.9298
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	amino_t5	amino	t5	2.553
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	amino_t5	amino	t5	3.5624000000000002
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	amino_t5	amino	t5	2.6604
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	amino_t5	amino	t5	3.3432
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	1.55373
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	1.4717900000000002
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	1.4126200000000002
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	1.6671200000000002
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	0.75621
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	1.52726
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	3.8956700000000004
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	3.8671400000000005
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	3.85875
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.020370000000000003
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	11.87466
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	12.177700000000002
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	11.701400000000001
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.04123
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	11.489020000000002
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	10.623360000000002
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	11.754980000000002
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.02117
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	3.05147
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	2.7930200000000003
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	2.38119
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.04043
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	9.72382
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	9.251470000000001
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	9.295630000000001
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.05752
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.50138
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	0.45939
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	0.5295300000000001
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	1.39683
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	1.53871
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	1.5512400000000002
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	amino_t5	amino	t5	1.5257200000000002
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	amino_t5	amino	t5	0.06330000000000001
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	amino_t5	amino	t5	0.025890000000000003
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	amino_t5	amino	t5	0.03946
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	amino_t5	amino	t5	0
+E. rectale_0_niclosamide_tech1_biol1_exp130	E. rectale	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.0056637
+E. rectale_10_niclosamide_tech1_biol1_exp130	E. rectale	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	3.3269805
+E. rectale_10_niclosamide_tech2_biol1_exp130	E. rectale	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	4.096836
+E. rectale_10_niclosamide_tech3_biol1_exp130	E. rectale	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	4.222809
+R. intestinalis_0_niclosamide_tech1_biol1_exp130	R. intestinalis	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0
+R. intestinalis_10_niclosamide_tech1_biol1_exp130	R. intestinalis	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.035997299999999996
+R. intestinalis_10_niclosamide_tech2_biol1_exp130	R. intestinalis	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	0.0184158
+R. intestinalis_10_niclosamide_tech3_biol1_exp130	R. intestinalis	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	0.015494399999999998
+F. nucleatum_0_niclosamide_tech1_biol1_exp130	F. nucleatum	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0
+F. nucleatum_10_niclosamide_tech1_biol1_exp130	F. nucleatum	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.6728004
+F. nucleatum_10_niclosamide_tech2_biol1_exp130	F. nucleatum	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	0.9965178
+F. nucleatum_10_niclosamide_tech3_biol1_exp130	F. nucleatum	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	1.0449009
+MGAM_0_niclosamide_tech1_biol1_exp130	MGAM	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0
+MGAM_0_niclosamide_tech2_biol1_exp130	MGAM	0	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	0.0157896
+MGAM_0_niclosamide_tech3_biol1_exp130	MGAM	0	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	0
+MGAM_0_niclosamide_tech4_biol1_exp130	MGAM	0	niclosamide	tech4	biol1	exp130	niclo_t5	niclo	t5	0.0060246
+C. perfringens_0_niclosamide_tech1_biol1_exp130	C. perfringens	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0
+C. perfringens_10_niclosamide_tech1_biol1_exp130	C. perfringens	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	1.5463917
+C. perfringens_10_niclosamide_tech2_biol1_exp130	C. perfringens	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	1.8649719
+C. perfringens_10_niclosamide_tech3_biol1_exp130	C. perfringens	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	2.1029454
+C. comes_0_niclosamide_tech1_biol1_exp130	C. comes	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.0024633
+C. comes_10_niclosamide_tech1_biol1_exp130	C. comes	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.018890999999999998
+C. comes_10_niclosamide_tech2_biol1_exp130	C. comes	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	0.013059
+C. comes_10_niclosamide_tech3_biol1_exp130	C. comes	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	0
+E. coli ED1a_0_niclosamide_tech1_biol1_exp130	E. coli ED1a	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.0111384
+E. coli ED1a_10_niclosamide_tech1_biol1_exp130	E. coli ED1a	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	6.780042
+E. coli ED1a_10_niclosamide_tech2_biol1_exp130	E. coli ED1a	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	7.5273452999999995
+E. coli ED1a_10_niclosamide_tech3_biol1_exp130	E. coli ED1a	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	7.218220499999999
+C. aerofaciens_0_niclosamide_tech1_biol1_exp130	C. aerofaciens	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.013049999999999999
+C. aerofaciens_10_niclosamide_tech1_biol1_exp130	C. aerofaciens	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	2.9664531
+C. aerofaciens_10_niclosamide_tech2_biol1_exp130	C. aerofaciens	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	3.0449322
+C. aerofaciens_10_niclosamide_tech3_biol1_exp130	C. aerofaciens	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	2.9311046999999997
+B. thetaiotaomicron_0_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	0	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	0.0061461
+B. thetaiotaomicron_10_niclosamide_tech1_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	4.745934
+B. thetaiotaomicron_10_niclosamide_tech2_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	6.1166564999999995
+B. thetaiotaomicron_10_niclosamide_tech3_biol1_exp130	B. thetaiotaomicron	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	5.8474224
+MGAM_10_niclosamide_tech1_biol1_exp130	MGAM	10	niclosamide	tech1	biol1	exp130	niclo_t5	niclo	t5	4.645703699999999
+MGAM_10_niclosamide_tech2_biol1_exp130	MGAM	10	niclosamide	tech2	biol1	exp130	niclo_t5	niclo	t5	5.3596242
+MGAM_10_niclosamide_tech3_biol1_exp130	MGAM	10	niclosamide	tech3	biol1	exp130	niclo_t5	niclo	t5	4.4210997
+MGAM_10_niclosamide_tech4_biol1_exp130	MGAM	10	niclosamide	tech4	biol1	exp130	niclo_t5	niclo	t5	5.304198599999999
+B. thetaiotaomicron_0_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.011583
+B. thetaiotaomicron_10_niclosamide_tech1_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	6.590015999999999
+B. thetaiotaomicron_10_niclosamide_tech2_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	6.054005
+B. thetaiotaomicron_10_niclosamide_tech3_biol2_exp135	B. thetaiotaomicron	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	6.802084
+P. merdae_0_niclosamide_tech1_biol2_exp135	P. merdae	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.08931499999999999
+P. merdae_10_niclosamide_tech1_biol2_exp135	P. merdae	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	6.375414
+P. merdae_10_niclosamide_tech2_biol2_exp135	P. merdae	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	2.444718
+P. merdae_10_niclosamide_tech3_biol2_exp135	P. merdae	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	5.889766
+E. rectale_0_niclosamide_tech1_biol2_exp135	E. rectale	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.08774
+E. rectale_10_niclosamide_tech1_biol2_exp135	E. rectale	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	5.307383
+E. rectale_10_niclosamide_tech2_biol2_exp135	E. rectale	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	5.153814
+E. rectale_10_niclosamide_tech3_biol2_exp135	E. rectale	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	4.984112
+R. intestinalis_0_niclosamide_tech1_biol2_exp135	R. intestinalis	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.082051
+R. intestinalis_10_niclosamide_tech1_biol2_exp135	R. intestinalis	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.102382
+R. intestinalis_10_niclosamide_tech2_biol2_exp135	R. intestinalis	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	0.06615499999999999
+R. intestinalis_10_niclosamide_tech3_biol2_exp135	R. intestinalis	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	0.07726
+F. nucleatum_0_niclosamide_tech1_biol2_exp135	F. nucleatum	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.021020999999999998
+F. nucleatum_10_niclosamide_tech1_biol2_exp135	F. nucleatum	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.675881
+F. nucleatum_10_niclosamide_tech2_biol2_exp135	F. nucleatum	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	0.611186
+F. nucleatum_10_niclosamide_tech3_biol2_exp135	F. nucleatum	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	0.684947
+C. perfringens_0_niclosamide_tech1_biol2_exp135	C. perfringens	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.09413099999999999
+C. perfringens_10_niclosamide_tech1_biol2_exp135	C. perfringens	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	5.774992
+C. perfringens_10_niclosamide_tech2_biol2_exp135	C. perfringens	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	5.710833999999999
+C. perfringens_10_niclosamide_tech3_biol2_exp135	C. perfringens	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	6.546812999999999
+C. comes_0_niclosamide_tech1_biol2_exp135	C. comes	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.088958
+C. comes_10_niclosamide_tech1_biol2_exp135	C. comes	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	1.511602
+C. comes_10_niclosamide_tech2_biol2_exp135	C. comes	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	1.210902
+C. comes_10_niclosamide_tech3_biol2_exp135	C. comes	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	1.011012
+E. coli ED1a_0_niclosamide_tech1_biol2_exp135	E. coli ED1a	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.046232999999999996
+E. coli ED1a_10_niclosamide_tech1_biol2_exp135	E. coli ED1a	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	7.615462
+E. coli ED1a_10_niclosamide_tech2_biol2_exp135	E. coli ED1a	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	7.739757999999999
+E. coli ED1a_10_niclosamide_tech3_biol2_exp135	E. coli ED1a	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	8.227723
+MGAM_10_niclosamide_tech1_biol2_exp135	MGAM	10	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	7.625102999999999
+MGAM_10_niclosamide_tech2_biol2_exp135	MGAM	10	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	7.014823
+MGAM_10_niclosamide_tech3_biol2_exp135	MGAM	10	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	7.172484
+MGAM_10_niclosamide_tech4_biol2_exp135	MGAM	10	niclosamide	tech4	biol2	exp135	niclo_t5	niclo	t5	6.458489
+MGAM_0_niclosamide_tech1_biol2_exp135	MGAM	0	niclosamide	tech1	biol2	exp135	niclo_t5	niclo	t5	0.025946999999999998
+MGAM_0_niclosamide_tech2_biol2_exp135	MGAM	0	niclosamide	tech2	biol2	exp135	niclo_t5	niclo	t5	0.015149999999999999
+MGAM_0_niclosamide_tech3_biol2_exp135	MGAM	0	niclosamide	tech3	biol2	exp135	niclo_t5	niclo	t5	0.01143
+MGAM_0_niclosamide_tech4_biol2_exp135	MGAM	0	niclosamide	tech4	biol2	exp135	niclo_t5	niclo	t5	0.011339

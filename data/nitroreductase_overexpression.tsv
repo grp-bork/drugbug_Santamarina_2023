@@ -1,0 +1,21 @@
+strain	drug	qualifier50	MIC50	qualifier90	MIC90	vector
+5001pSG62#4	Niclosamide	=	5	=	10	<span style='color:red'><i>Ri</i> C7GA87</span>
+5001pSG62#4	Nifurtimox	=	5	=	10	<span style='color:red'><i>Ri</i> C7GA87</span>
+5001pSG67#1	Niclosamide	=	10	=	20	Pv2039
+5001pSG67#2	Nifurtimox	=	5	=	10	Pv2039
+5001pSG68#1	Nifurtimox	=	10	=	20	Pv0975
+5001pSG68#4	Niclosamide	=	0.32	=	0.625	Pv0975
+5001pSG69#1	Niclosamide	=	0.32	=	0.625	Pv1605
+5001pSG69#2	Nifurtimox	=	5	=	10	Pv1605
+5001pSG70#1	Niclosamide	=	0.32	=	0.625	Pv2535
+5001pSG70#2	Nifurtimox	=	5	=	10	Pv2535
+5001pSG71#1	Nifurtimox	=	5	=	10	Pv2494
+5001pSG71#2	Niclosamide	=	0.625	=	1.25	Pv2494
+5001pSG72#1	Niclosamide	=	0.625	=	0.625	Pv0002
+5001pSG72#4	Nifurtimox	=	5	=	20	Pv0002
+5001pSG73#3	Niclosamide	=	1.25	=	5	Pv1973
+5001pSG73#3	Nifurtimox	=	10	=	10	Pv1973
+5001pSG75#2	Niclosamide	=	2.5	=	5	<span style='color:red'><i>Ri</i> C7GB41</span>
+5001pSG75#2	Nifurtimox	=	5	=	10	<span style='color:red'><i>Ri</i> C7GB41</span>
+5001pww3864	Nifurtimox	=	10	=	20	empty plasmid
+5001pww3864#1	Niclosamide	=	0.32	=	0.625	empty plasmid

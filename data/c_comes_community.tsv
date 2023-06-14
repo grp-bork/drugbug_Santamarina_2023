@@ -1,0 +1,21 @@
+Copro_Conc	Coprococcus	Concentration	Condition	rel_abundance
+Cc_0	Cc	0	B. longum_pellet	7.537099551066997e-4
+Cc_0	Cc	0	B. uniformis_pellet	1.181339286130424
+Cc_0	Cc	0	C. comes_pellet	0.06468623613430557
+Cc_0	Cc	0	S. parasanguinis_pellet	0.316928115638172
+Cc_0	Cc	0	S. salivarius_pellet	0.011957273297711062
+Cc_10	Cc	10	B. longum_pellet	6.539021362733464e-4
+Cc_10	Cc	10	B. uniformis_pellet	1.3348105489678306
+Cc_10	Cc	10	C. comes_pellet	0.08090325675442271
+Cc_10	Cc	10	S. parasanguinis_pellet	0.1749042216622363
+Cc_10	Cc	10	S. salivarius_pellet	0.011296774608450017
+noCc_0	noCc	0	B. longum_pellet	0.0035177107694306714
+noCc_0	noCc	0	B. uniformis_pellet	0.824192577567231
+noCc_0	noCc	0	C. comes_pellet	3.851321863540451e-5
+noCc_0	noCc	0	S. parasanguinis_pellet	0.16032281869680653
+noCc_0	noCc	0	S. salivarius_pellet	0.010680483744594871
+noCc_10	noCc	10	B. longum_pellet	0.002162629029107809
+noCc_10	noCc	10	B. uniformis_pellet	0.07298396115857085
+noCc_10	noCc	10	C. comes_pellet	1.4827704099173896e-4
+noCc_10	noCc	10	S. parasanguinis_pellet	0.41035894549779817
+noCc_10	noCc	10	S. salivarius_pellet	0.0065396638638145176

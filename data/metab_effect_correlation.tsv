@@ -1,0 +1,31 @@
+sample_type	result	corr_p	corr_s	max_time	pvalue_p	pvalue_s
+Biotransformation &_bioaccumulation	protected in community	0.40975036127191905	0.4348079054039685	10	0.03224	0.02499
+Biotransformation &_bioaccumulation	protected in community	0.3955495435869819	0.5701582655203584	1.25	0.03822	0.0035
+Biotransformation &_bioaccumulation	protected in community	0.33863752444255674	0.3288520565092035	7.5	0.06692	0.06984
+Biotransformation &_bioaccumulation	protected in community	0.33153174196264623	0.5127075201194875	2.5	0.07387	0.00925
+Biotransformation_only	protected in community	0.32890409736169457	0.47725422913205745	1.25	0.07814	0.01426
+Biotransformation_only	protected in community	0.306945863383694	0.5121076891026897	2.5	0.09496	0.00729
+Biotransformation &_bioaccumulation	protected in community	0.285837491994732	0.29280552577357455	5	0.1068	0.09179
+Bioaccumulation_only	protected in community	0.2808838554739487	0.32945072142032883	10	0.11155	0.06595
+Biotransformation_only	protected in community	0.2649452608482342	0.15748709154316523	10	0.13259	0.24535
+Bioaccumulation_only	protected in community	0.24125888926852596	0.31115738085492956	7.5	0.14842	0.07711
+Biotransformation_only	protected in community	0.23691588204413894	0.15580378248917057	7.5	0.16082	0.24876
+Biotransformation_only	protected in community	0.23742170215849695	0.2958870954418264	5	0.16368	0.08843
+Bioaccumulation_only	protected in community	0.22627394378832796	0.3912392170571677	1.25	0.16995	0.04134
+Bioaccumulation_only	protected in community	0.146985044277345	0.14996444724733773	5	0.26742	0.25418
+Bioaccumulation_only	protected in community	0.11785659873592912	0.2941891510696237	2.5	0.30594	0.09346
+Bioaccumulation_only	sensitized in community	0.2887779816667976	0.3012803684299526	1.25	0.13934	0.12305
+Bioaccumulation_only	sensitized in community	0.29668341888788674	0.39689092500515244	2.5	0.14343	0.06442
+Bioaccumulation_only	sensitized in community	0.22788962803888452	0.2569287878439624	5	0.20961	0.20321
+Bioaccumulation_only	sensitized in community	0.18793680297195814	0.14555581298985545	7.5	0.24923	0.3164
+Bioaccumulation_only	sensitized in community	0.143746127421346	0.09515611380422456	10	0.29996	0.37345
+Biotransformation &_bioaccumulation	sensitized in community	0.14158735969342168	-0.15499256903631253	2.5	0.30297	0.27262
+Biotransformation &_bioaccumulation	sensitized in community	0.13555348422039415	-0.11065088796284676	5	0.31111	0.32704
+Biotransformation &_bioaccumulation	sensitized in community	0.13194218422392287	0.04193140013000847	1.25	0.31233	0.45992
+Biotransformation &_bioaccumulation	sensitized in community	0.10456724081203725	-0.040001352646348624	7.5	0.34916	0.42299
+Biotransformation_only	sensitized in community	0.052994804042493696	-0.08766895867999833	5	0.40716	0.37169
+Biotransformation_only	sensitized in community	0.03810737253101688	-0.12485581342598519	2.5	0.42546	0.32327
+Biotransformation_only	sensitized in community	0.028126542269433966	-0.10673721481540988	1.25	0.43987	0.33754
+Biotransformation_only	sensitized in community	0.033853425034482194	-0.0026434879876062202	7.5	0.44242	0.47356
+Biotransformation &_bioaccumulation	sensitized in community	0.030942822053570535	-0.06941018128830823	10	0.44316	0.38049
+Biotransformation_only	sensitized in community	-0.03624466702551584	-0.04748688213883968	10	0.46032	0.41559

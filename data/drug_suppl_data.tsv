@@ -1,0 +1,31 @@
+drug	Catalogue_number	Supplier	Solvent	prestwick_ID	target_species	therapeutic_effect
+Acarbose	A2485	TCI Deutschland GmbH	DMSO	Prestw-1174	human	Antidiabetic
+Amlodipine	A2353	TCI Deutschland GmbH	DMSO	Prestw-1219	human	Antihypertensive
+Aprepitant	A3135	TCI Deutschland GmbH	DMSO	Prestw-1600	human	Antiemetic
+Aripiprazole	A2496	TCI Deutschland GmbH	DMSO	Prestw-1229	human	Antipsychotic
+Azithromycin	75199	Sigma	DMSO	Prestw-1234	bacteria	Antibacterial
+beta-estradiol 17-valerate	E0876	TCI Deutschland GmbH	DMSO	Prestw-1473	human	Contraceptive
+Chlorpromazine	C2481	TCI Deutschland GmbH	DMSO	Prestw-64	human	Antiemetic
+Ciprofloxacin	17850	Sigma	0.1 M HCl	Prestw-113	bacteria	Antibacterial
+Clomiphene	C6272-1G	Sigma	DMSO	Prestw-397	human	Ovulation stimulant
+Diacerein	sc-204717	Santa Cruz Biotechnology	DMSO	Prestw-1167	human	Antiarthritic
+Dienestrol	D0449	TCI Deutschland GmbH	DMSO	Prestw-798	human	"Synthetic, nonsteroidal Estrogen"
+Doxycycline	D9891	Sigma	DMSO	Prestw-1399	bacteria	Antibacterial
+Ebselen	E0946	TCI Deutschland GmbH	DMSO	Prestw-740	human	Anti-inflammatory
+Entacapone	SML0654	Sigma	DMSO	Prestw-1403	human	Antiparkinsonian
+Felodipine	F0814	TCI Deutschland GmbH	DMSO	Prestw-478	human	Antianginal
+Ketoconazole	K0045	TCI Deutschland GmbH	DMSO	Prestw-389	fungi	Antifungal
+Lansoprazole	L0233	TCI Deutschland GmbH	DMSO	Prestw-1072	human	Antiulcer
+Loratadine	L0223	TCI Deutschland GmbH	DMSO	Prestw-1432	human	Antihistaminic
+Loxapine	L106	Sigma	DMSO	Prestw-132	human	Antipsychotic
+Mecillinam	33447	Sigma	DMSO	-	bacteria	Antibacterial
+Mefloquine	M2313	TCI Deutschland GmbH	DMSO	Prestw-126	protozoa	Antimalarial
+Methotrexate	M1664	TCI Deutschland GmbH	DMSO	Prestw-135	human	Antineoplastic
+Niclosamide	N3510-50G	Sigma	DMSO	Prestw-40	metazoan parasites	Antihelmintic
+Nifurtimox	N3415-5MG	Sigma	DMSO	Prestw-1024	protozoa	Antiparasitic
+Olanzapine	O0393	TCI Deutschland GmbH	DMSO	Prestw-1455	human	Antipsychotic
+Omeprazole	O0359	TCI Deutschland GmbH	DMSO	Prestw-493	human	Antiulcer
+Oxolinic acid	sc-212488	Santa Cruz Biotechnology	0.5 M NaOH	Prestw-193	bacteria	Antibacterial
+Sertindole	S0942	TCI Deutschland GmbH	DMSO	Prestw-1341	human	Antipsychotic
+Simvastatin	sc-200829A	Santa Cruz Biotechnology	DMSO	Prestw-865	human	Antilipemic
+Tamoxifen	sc-203288	Santa Cruz Biotechnology	DMSO	Prestw-146	human	Antineoplastic

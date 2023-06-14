@@ -1,0 +1,968 @@
+flavor	species	run	tech_repl	hit	category	result	expected	n	n_total	fraction	n_repl
+absolute	Bacteroides fragilis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+absolute	Bacteroides fragilis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+absolute	Bacteroides fragilis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	47	0.48936170212765956	6
+absolute	Bacteroides fragilis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	47	0.5106382978723404	6
+absolute	Bacteroides fragilis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	39	0.9487179487179487	6
+absolute	Bacteroides fragilis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	39	0.05128205128205128	6
+absolute	Bacteroides fragilis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	45	0.4666666666666667	6
+absolute	Bacteroides fragilis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	45	0.5333333333333333	6
+absolute	Bacteroides fragilis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+absolute	Bacteroides fragilis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+absolute	Bacteroides fragilis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	48	0.4791666666666667	6
+absolute	Bacteroides fragilis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	48	0.5208333333333334	6
+absolute	Bacteroides fragilis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+absolute	Bacteroides fragilis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+absolute	Bacteroides fragilis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	48	0.5208333333333334	6
+absolute	Bacteroides fragilis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	48	0.4791666666666667	6
+absolute	Bacteroides fragilis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	38	0.9473684210526315	6
+absolute	Bacteroides fragilis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	38	0.05263157894736842	6
+absolute	Bacteroides fragilis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	48	0.4583333333333333	6
+absolute	Bacteroides fragilis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	48	0.5416666666666666	6
+absolute	Bacteroides fragilis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	38	0.9473684210526315	6
+absolute	Bacteroides fragilis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	38	0.05263157894736842	6
+absolute	Bacteroides fragilis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	47	0.48936170212765956	6
+absolute	Bacteroides fragilis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	47	0.5106382978723404	6
+absolute	Bacteroides thetaiotaomicron	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+absolute	Bacteroides thetaiotaomicron	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	37	0.3783783783783784	6
+absolute	Bacteroides thetaiotaomicron	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	37	0.6216216216216216	6
+absolute	Bacteroides thetaiotaomicron	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+absolute	Bacteroides thetaiotaomicron	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	35	0.37142857142857144	6
+absolute	Bacteroides thetaiotaomicron	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	35	0.6285714285714286	6
+absolute	Bacteroides thetaiotaomicron	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+absolute	Bacteroides thetaiotaomicron	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	38	0.39473684210526316	6
+absolute	Bacteroides thetaiotaomicron	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	38	0.6052631578947368	6
+absolute	Bacteroides thetaiotaomicron	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+absolute	Bacteroides thetaiotaomicron	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	38	0.42105263157894735	6
+absolute	Bacteroides thetaiotaomicron	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	38	0.5789473684210527	6
+absolute	Bacteroides thetaiotaomicron	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	48	1	6
+absolute	Bacteroides thetaiotaomicron	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	38	0.42105263157894735	6
+absolute	Bacteroides thetaiotaomicron	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	38	0.5789473684210527	6
+absolute	Bacteroides thetaiotaomicron	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	47	1	6
+absolute	Bacteroides thetaiotaomicron	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	38	0.42105263157894735	6
+absolute	Bacteroides thetaiotaomicron	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	38	0.5789473684210527	6
+absolute	Bacteroides uniformis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	40	0.9	6
+absolute	Bacteroides uniformis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	40	0.1	6
+absolute	Bacteroides uniformis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	46	0.5652173913043478	6
+absolute	Bacteroides uniformis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	46	0.43478260869565216	6
+absolute	Bacteroides uniformis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	40	0.9	6
+absolute	Bacteroides uniformis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	40	0.1	6
+absolute	Bacteroides uniformis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	44	0.5681818181818182	6
+absolute	Bacteroides uniformis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	44	0.4318181818181818	6
+absolute	Bacteroides uniformis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	40	0.975	6
+absolute	Bacteroides uniformis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	40	0.025	6
+absolute	Bacteroides uniformis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	47	0.5319148936170213	6
+absolute	Bacteroides uniformis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	47	0.46808510638297873	6
+absolute	Bacteroides uniformis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	40	0.95	6
+absolute	Bacteroides uniformis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	40	0.05	6
+absolute	Bacteroides uniformis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+absolute	Bacteroides uniformis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+absolute	Bacteroides uniformis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	39	0.9230769230769231	6
+absolute	Bacteroides uniformis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	39	0.07692307692307693	6
+absolute	Bacteroides uniformis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+absolute	Bacteroides uniformis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+absolute	Bacteroides uniformis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	39	0.8974358974358975	6
+absolute	Bacteroides uniformis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	39	0.10256410256410256	6
+absolute	Bacteroides uniformis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	46	0.5217391304347826	6
+absolute	Bacteroides uniformis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	46	0.4782608695652174	6
+absolute	Clostridium perfringens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+absolute	Clostridium perfringens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+absolute	Clostridium perfringens	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	44	0.5909090909090909	6
+absolute	Clostridium perfringens	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	44	0.4090909090909091	6
+absolute	Clostridium perfringens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+absolute	Clostridium perfringens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+absolute	Clostridium perfringens	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	42	0.6190476190476191	6
+absolute	Clostridium perfringens	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	42	0.38095238095238093	6
+absolute	Clostridium perfringens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	42	0.9285714285714286	6
+absolute	Clostridium perfringens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	42	0.07142857142857142	6
+absolute	Clostridium perfringens	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	29	45	0.6444444444444445	6
+absolute	Clostridium perfringens	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	45	0.35555555555555557	6
+absolute	Clostridium perfringens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	42	0.9047619047619048	6
+absolute	Clostridium perfringens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	42	0.09523809523809523	6
+absolute	Clostridium perfringens	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	45	0.6222222222222222	6
+absolute	Clostridium perfringens	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	45	0.37777777777777777	6
+absolute	Clostridium perfringens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+absolute	Clostridium perfringens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+absolute	Clostridium perfringens	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	30	45	0.6666666666666666	6
+absolute	Clostridium perfringens	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	45	0.3333333333333333	6
+absolute	Clostridium perfringens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	41	0.9024390243902439	6
+absolute	Clostridium perfringens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	41	0.0975609756097561	6
+absolute	Clostridium perfringens	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	44	0.6136363636363636	6
+absolute	Clostridium perfringens	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	44	0.38636363636363635	6
+absolute	Collinsella aerofaciens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	42	49	0.8571428571428571	6
+absolute	Collinsella aerofaciens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	49	0.14285714285714285	6
+absolute	Collinsella aerofaciens	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	37	0.5405405405405406	6
+absolute	Collinsella aerofaciens	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	37	0.4594594594594595	6
+absolute	Collinsella aerofaciens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	49	0.8163265306122449	6
+absolute	Collinsella aerofaciens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	49	0.1836734693877551	6
+absolute	Collinsella aerofaciens	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	35	0.5428571428571428	6
+absolute	Collinsella aerofaciens	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	35	0.45714285714285713	6
+absolute	Collinsella aerofaciens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	49	0.9387755102040817	6
+absolute	Collinsella aerofaciens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	49	0.061224489795918366	6
+absolute	Collinsella aerofaciens	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	38	0.5	6
+absolute	Collinsella aerofaciens	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	38	0.5	6
+absolute	Collinsella aerofaciens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	49	0.9387755102040817	6
+absolute	Collinsella aerofaciens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	49	0.061224489795918366	6
+absolute	Collinsella aerofaciens	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	38	0.5263157894736842	6
+absolute	Collinsella aerofaciens	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	38	0.47368421052631576	6
+absolute	Collinsella aerofaciens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	48	0.8333333333333334	6
+absolute	Collinsella aerofaciens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	48	0.16666666666666666	6
+absolute	Collinsella aerofaciens	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	38	0.6052631578947368	6
+absolute	Collinsella aerofaciens	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	38	0.39473684210526316	6
+absolute	Collinsella aerofaciens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	47	0.8297872340425532	6
+absolute	Collinsella aerofaciens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	47	0.1702127659574468	6
+absolute	Collinsella aerofaciens	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	38	0.6842105263157895	6
+absolute	Collinsella aerofaciens	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	38	0.3157894736842105	6
+absolute	Coprococcus comes	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	41	0.975609756097561	6
+absolute	Coprococcus comes	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	41	0.024390243902439025	6
+absolute	Coprococcus comes	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	45	0.5333333333333333	6
+absolute	Coprococcus comes	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	45	0.4666666666666667	6
+absolute	Coprococcus comes	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	41	0.926829268292683	6
+absolute	Coprococcus comes	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	41	0.07317073170731707	6
+absolute	Coprococcus comes	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	43	0.5813953488372093	6
+absolute	Coprococcus comes	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	43	0.4186046511627907	6
+absolute	Coprococcus comes	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+absolute	Coprococcus comes	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+absolute	Coprococcus comes	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	46	0.5217391304347826	6
+absolute	Coprococcus comes	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	46	0.4782608695652174	6
+absolute	Coprococcus comes	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	41	0.9024390243902439	6
+absolute	Coprococcus comes	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	41	0.0975609756097561	6
+absolute	Coprococcus comes	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	46	0.5434782608695652	6
+absolute	Coprococcus comes	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	46	0.45652173913043476	6
+absolute	Coprococcus comes	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+absolute	Coprococcus comes	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+absolute	Coprococcus comes	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	30	46	0.6521739130434783	6
+absolute	Coprococcus comes	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	46	0.34782608695652173	6
+absolute	Coprococcus comes	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+absolute	Coprococcus comes	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+absolute	Coprococcus comes	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	45	0.6	6
+absolute	Coprococcus comes	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	45	0.4	6
+absolute	Dorea formicigenerans	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	30	36	0.8333333333333334	6
+absolute	Dorea formicigenerans	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	36	0.16666666666666666	6
+absolute	Dorea formicigenerans	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	50	0.56	6
+absolute	Dorea formicigenerans	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	50	0.44	6
+absolute	Dorea formicigenerans	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	32	36	0.8888888888888888	6
+absolute	Dorea formicigenerans	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	36	0.1111111111111111	6
+absolute	Dorea formicigenerans	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	48	0.5625	6
+absolute	Dorea formicigenerans	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	48	0.4375	6
+absolute	Dorea formicigenerans	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	25	36	0.6944444444444444	6
+absolute	Dorea formicigenerans	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	11	36	0.3055555555555556	6
+absolute	Dorea formicigenerans	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	31	51	0.6078431372549019	6
+absolute	Dorea formicigenerans	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	51	0.39215686274509803	6
+absolute	Dorea formicigenerans	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	32	36	0.8888888888888888	6
+absolute	Dorea formicigenerans	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	36	0.1111111111111111	6
+absolute	Dorea formicigenerans	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	30	51	0.5882352941176471	6
+absolute	Dorea formicigenerans	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	51	0.4117647058823529	6
+absolute	Dorea formicigenerans	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	31	35	0.8857142857142857	6
+absolute	Dorea formicigenerans	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	35	0.11428571428571428	6
+absolute	Dorea formicigenerans	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	51	0.45098039215686275	6
+absolute	Dorea formicigenerans	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	51	0.5490196078431373	6
+absolute	Dorea formicigenerans	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	31	35	0.8857142857142857	6
+absolute	Dorea formicigenerans	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	35	0.11428571428571428	6
+absolute	Dorea formicigenerans	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	50	0.48	6
+absolute	Dorea formicigenerans	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	50	0.52	6
+absolute	Eggerthella lenta	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	58	0.8620689655172413	6
+absolute	Eggerthella lenta	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	58	0.13793103448275862	6
+absolute	Eggerthella lenta	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	27	0.5185185185185185	6
+absolute	Eggerthella lenta	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	27	0.48148148148148145	6
+absolute	Eggerthella lenta	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	58	0.8275862068965517	6
+absolute	Eggerthella lenta	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	10	58	0.1724137931034483	6
+absolute	Eggerthella lenta	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	25	0.52	6
+absolute	Eggerthella lenta	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	25	0.48	6
+absolute	Eggerthella lenta	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	58	0.8620689655172413	6
+absolute	Eggerthella lenta	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	58	0.13793103448275862	6
+absolute	Eggerthella lenta	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	28	0.4642857142857143	6
+absolute	Eggerthella lenta	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	28	0.5357142857142857	6
+absolute	Eggerthella lenta	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	58	0.8620689655172413	6
+absolute	Eggerthella lenta	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	58	0.13793103448275862	6
+absolute	Eggerthella lenta	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	28	0.4642857142857143	6
+absolute	Eggerthella lenta	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	28	0.5357142857142857	6
+absolute	Eggerthella lenta	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	57	0.631578947368421	6
+absolute	Eggerthella lenta	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	21	57	0.3684210526315789	6
+absolute	Eggerthella lenta	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	28	0.75	6
+absolute	Eggerthella lenta	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	28	0.25	6
+absolute	Eggerthella lenta	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	56	0.6785714285714286	6
+absolute	Eggerthella lenta	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	18	56	0.32142857142857145	6
+absolute	Eggerthella lenta	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	28	0.6428571428571429	6
+absolute	Eggerthella lenta	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	10	28	0.35714285714285715	6
+absolute	Enterocloster bolteae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+absolute	Enterocloster bolteae	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	6	33	0.18181818181818182	6
+absolute	Enterocloster bolteae	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	33	0.8181818181818182	6
+absolute	Enterocloster bolteae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+absolute	Enterocloster bolteae	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	6	31	0.1935483870967742	6
+absolute	Enterocloster bolteae	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	31	0.8064516129032258	6
+absolute	Enterocloster bolteae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+absolute	Enterocloster bolteae	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	34	0.20588235294117646	6
+absolute	Enterocloster bolteae	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	34	0.7941176470588235	6
+absolute	Enterocloster bolteae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+absolute	Enterocloster bolteae	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	34	0.23529411764705882	6
+absolute	Enterocloster bolteae	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	34	0.7647058823529411	6
+absolute	Enterocloster bolteae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	52	52	1	6
+absolute	Enterocloster bolteae	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	34	0.29411764705882354	6
+absolute	Enterocloster bolteae	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	34	0.7058823529411765	6
+absolute	Enterocloster bolteae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	51	51	1	6
+absolute	Enterocloster bolteae	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	34	0.29411764705882354	6
+absolute	Enterocloster bolteae	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	34	0.7058823529411765	6
+absolute	Erysipelatoclostridium ramosum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+absolute	Erysipelatoclostridium ramosum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+absolute	Erysipelatoclostridium ramosum	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	30	0.3333333333333333	6
+absolute	Erysipelatoclostridium ramosum	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	30	0.6666666666666666	6
+absolute	Erysipelatoclostridium ramosum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+absolute	Erysipelatoclostridium ramosum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+absolute	Erysipelatoclostridium ramosum	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	12	29	0.41379310344827586	6
+absolute	Erysipelatoclostridium ramosum	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	29	0.5862068965517241	6
+absolute	Erysipelatoclostridium ramosum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+absolute	Erysipelatoclostridium ramosum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+absolute	Erysipelatoclostridium ramosum	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	31	0.45161290322580644	6
+absolute	Erysipelatoclostridium ramosum	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	31	0.5483870967741935	6
+absolute	Erysipelatoclostridium ramosum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+absolute	Erysipelatoclostridium ramosum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+absolute	Erysipelatoclostridium ramosum	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	31	0.45161290322580644	6
+absolute	Erysipelatoclostridium ramosum	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	31	0.5483870967741935	6
+absolute	Erysipelatoclostridium ramosum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	53	0.8490566037735849	6
+absolute	Erysipelatoclostridium ramosum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	53	0.1509433962264151	6
+absolute	Erysipelatoclostridium ramosum	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	31	0.6451612903225806	6
+absolute	Erysipelatoclostridium ramosum	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	31	0.3548387096774194	6
+absolute	Erysipelatoclostridium ramosum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	52	0.8653846153846154	6
+absolute	Erysipelatoclostridium ramosum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	52	0.1346153846153846	6
+absolute	Erysipelatoclostridium ramosum	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	31	0.6129032258064516	6
+absolute	Erysipelatoclostridium ramosum	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	31	0.3870967741935484	6
+absolute	Escherichia coli ED1a	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+absolute	Escherichia coli ED1a	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	11	0.7272727272727273	6
+absolute	Escherichia coli ED1a	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	11	0.2727272727272727	6
+absolute	Escherichia coli ED1a	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	73	73	1	6
+absolute	Escherichia coli ED1a	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	6	10	0.6	6
+absolute	Escherichia coli ED1a	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	4	10	0.4	6
+absolute	Escherichia coli ED1a	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+absolute	Escherichia coli ED1a	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	12	0.75	6
+absolute	Escherichia coli ED1a	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	12	0.25	6
+absolute	Escherichia coli ED1a	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+absolute	Escherichia coli ED1a	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	12	0.75	6
+absolute	Escherichia coli ED1a	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	12	0.25	6
+absolute	Escherichia coli ED1a	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	73	73	1	6
+absolute	Escherichia coli ED1a	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	12	0.75	6
+absolute	Escherichia coli ED1a	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	12	0.25	6
+absolute	Escherichia coli ED1a	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	71	72	0.9861111111111112	6
+absolute	Escherichia coli ED1a	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	72	0.013888888888888888	6
+absolute	Escherichia coli ED1a	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	12	0.8333333333333334	6
+absolute	Escherichia coli ED1a	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	2	12	0.16666666666666666	6
+absolute	Eubacterium rectale	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	28	37	0.7567567567567568	6
+absolute	Eubacterium rectale	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	37	0.24324324324324326	6
+absolute	Eubacterium rectale	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	49	0.5510204081632653	6
+absolute	Eubacterium rectale	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	49	0.4489795918367347	6
+absolute	Eubacterium rectale	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	21	37	0.5675675675675675	6
+absolute	Eubacterium rectale	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	16	37	0.43243243243243246	6
+absolute	Eubacterium rectale	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+absolute	Eubacterium rectale	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+absolute	Eubacterium rectale	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	29	37	0.7837837837837838	6
+absolute	Eubacterium rectale	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	37	0.21621621621621623	6
+absolute	Eubacterium rectale	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	50	0.54	6
+absolute	Eubacterium rectale	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	50	0.46	6
+absolute	Eubacterium rectale	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	30	37	0.8108108108108109	6
+absolute	Eubacterium rectale	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	37	0.1891891891891892	6
+absolute	Eubacterium rectale	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	50	0.48	6
+absolute	Eubacterium rectale	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	50	0.52	6
+absolute	Eubacterium rectale	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	36	0.9444444444444444	6
+absolute	Eubacterium rectale	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	36	0.05555555555555555	6
+absolute	Eubacterium rectale	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	50	0.5	6
+absolute	Eubacterium rectale	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	50	0.5	6
+absolute	Eubacterium rectale	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	33	35	0.9428571428571428	6
+absolute	Eubacterium rectale	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	35	0.05714285714285714	6
+absolute	Eubacterium rectale	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	50	0.5	6
+absolute	Eubacterium rectale	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	50	0.5	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	37	0.5675675675675675	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	37	0.43243243243243246	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	49	0.9183673469387755	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	49	0.08163265306122448	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	35	0.5714285714285714	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	35	0.42857142857142855	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	38	0.5789473684210527	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	38	0.42105263157894735	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	38	0.5789473684210527	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	38	0.42105263157894735	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	42	48	0.875	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	48	0.125	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	38	0.6842105263157895	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	38	0.3157894736842105	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	47	0.851063829787234	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	47	0.14893617021276595	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	38	0.6842105263157895	6
+absolute	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	38	0.3157894736842105	6
+absolute	Lacrimispora saccharolytica	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	49	0.9387755102040817	6
+absolute	Lacrimispora saccharolytica	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	49	0.061224489795918366	6
+absolute	Lacrimispora saccharolytica	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	37	0.35135135135135137	6
+absolute	Lacrimispora saccharolytica	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	37	0.6486486486486487	6
+absolute	Lacrimispora saccharolytica	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	43	49	0.8775510204081632	6
+absolute	Lacrimispora saccharolytica	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	49	0.12244897959183673	6
+absolute	Lacrimispora saccharolytica	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	35	0.37142857142857144	6
+absolute	Lacrimispora saccharolytica	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	35	0.6285714285714286	6
+absolute	Lacrimispora saccharolytica	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+absolute	Lacrimispora saccharolytica	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+absolute	Lacrimispora saccharolytica	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	38	0.2631578947368421	6
+absolute	Lacrimispora saccharolytica	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	38	0.7368421052631579	6
+absolute	Lacrimispora saccharolytica	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+absolute	Lacrimispora saccharolytica	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	38	0.2631578947368421	6
+absolute	Lacrimispora saccharolytica	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	38	0.7368421052631579	6
+absolute	Lacrimispora saccharolytica	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	48	0.9583333333333334	6
+absolute	Lacrimispora saccharolytica	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	48	0.041666666666666664	6
+absolute	Lacrimispora saccharolytica	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	12	38	0.3157894736842105	6
+absolute	Lacrimispora saccharolytica	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	38	0.6842105263157895	6
+absolute	Lacrimispora saccharolytica	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	48	0.9583333333333334	6
+absolute	Lacrimispora saccharolytica	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	48	0.041666666666666664	6
+absolute	Lacrimispora saccharolytica	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	37	0.3783783783783784	6
+absolute	Lacrimispora saccharolytica	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	37	0.6216216216216216	6
+absolute	Parabacteroides merdae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	42	0.9761904761904762	6
+absolute	Parabacteroides merdae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	42	0.023809523809523808	6
+absolute	Parabacteroides merdae	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	44	0.36363636363636365	6
+absolute	Parabacteroides merdae	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	44	0.6363636363636364	6
+absolute	Parabacteroides merdae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+absolute	Parabacteroides merdae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+absolute	Parabacteroides merdae	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	42	0.40476190476190477	6
+absolute	Parabacteroides merdae	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	42	0.5952380952380952	6
+absolute	Parabacteroides merdae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+absolute	Parabacteroides merdae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+absolute	Parabacteroides merdae	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	45	0.4666666666666667	6
+absolute	Parabacteroides merdae	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	45	0.5333333333333333	6
+absolute	Parabacteroides merdae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+absolute	Parabacteroides merdae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+absolute	Parabacteroides merdae	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	45	0.4444444444444444	6
+absolute	Parabacteroides merdae	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	45	0.5555555555555556	6
+absolute	Parabacteroides merdae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+absolute	Parabacteroides merdae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+absolute	Parabacteroides merdae	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	45	0.4444444444444444	6
+absolute	Parabacteroides merdae	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	45	0.5555555555555556	6
+absolute	Parabacteroides merdae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	41	0.926829268292683	6
+absolute	Parabacteroides merdae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	41	0.07317073170731707	6
+absolute	Parabacteroides merdae	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	44	0.4772727272727273	6
+absolute	Parabacteroides merdae	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	44	0.5227272727272727	6
+absolute	Phocaeicola vulgatus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	39	0.9487179487179487	6
+absolute	Phocaeicola vulgatus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	39	0.05128205128205128	6
+absolute	Phocaeicola vulgatus	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	47	0.574468085106383	6
+absolute	Phocaeicola vulgatus	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	47	0.425531914893617	6
+absolute	Phocaeicola vulgatus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	39	0.9487179487179487	6
+absolute	Phocaeicola vulgatus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	39	0.05128205128205128	6
+absolute	Phocaeicola vulgatus	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	29	45	0.6444444444444445	6
+absolute	Phocaeicola vulgatus	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	45	0.35555555555555557	6
+absolute	Phocaeicola vulgatus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+absolute	Phocaeicola vulgatus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+absolute	Phocaeicola vulgatus	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	29	48	0.6041666666666666	6
+absolute	Phocaeicola vulgatus	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	48	0.3958333333333333	6
+absolute	Phocaeicola vulgatus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+absolute	Phocaeicola vulgatus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+absolute	Phocaeicola vulgatus	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	30	48	0.625	6
+absolute	Phocaeicola vulgatus	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	48	0.375	6
+absolute	Phocaeicola vulgatus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	38	0.8947368421052632	6
+absolute	Phocaeicola vulgatus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	38	0.10526315789473684	6
+absolute	Phocaeicola vulgatus	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	34	48	0.7083333333333334	6
+absolute	Phocaeicola vulgatus	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	48	0.2916666666666667	6
+absolute	Phocaeicola vulgatus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	33	37	0.8918918918918919	6
+absolute	Phocaeicola vulgatus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	37	0.10810810810810811	6
+absolute	Phocaeicola vulgatus	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	33	48	0.6875	6
+absolute	Phocaeicola vulgatus	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	48	0.3125	6
+absolute	Roseburia intestinalis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+absolute	Roseburia intestinalis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+absolute	Roseburia intestinalis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	48	0.1875	6
+absolute	Roseburia intestinalis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	39	48	0.8125	6
+absolute	Roseburia intestinalis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	38	0.9473684210526315	6
+absolute	Roseburia intestinalis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	38	0.05263157894736842	6
+absolute	Roseburia intestinalis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	46	0.2391304347826087	6
+absolute	Roseburia intestinalis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	35	46	0.7608695652173914	6
+absolute	Roseburia intestinalis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+absolute	Roseburia intestinalis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+absolute	Roseburia intestinalis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	49	0.16326530612244897	6
+absolute	Roseburia intestinalis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	41	49	0.8367346938775511	6
+absolute	Roseburia intestinalis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+absolute	Roseburia intestinalis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+absolute	Roseburia intestinalis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	12	49	0.24489795918367346	6
+absolute	Roseburia intestinalis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	37	49	0.7551020408163265	6
+absolute	Roseburia intestinalis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	37	0.972972972972973	6
+absolute	Roseburia intestinalis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	37	0.02702702702702703	6
+absolute	Roseburia intestinalis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	49	0.30612244897959184	6
+absolute	Roseburia intestinalis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	34	49	0.6938775510204082	6
+absolute	Roseburia intestinalis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	37	1	6
+absolute	Roseburia intestinalis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	48	0.3333333333333333	6
+absolute	Roseburia intestinalis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	48	0.6666666666666666	6
+absolute	Ruminococcus gnavus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	49	0.7551020408163265	6
+absolute	Ruminococcus gnavus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	12	49	0.24489795918367346	6
+absolute	Ruminococcus gnavus	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	37	0.6216216216216216	6
+absolute	Ruminococcus gnavus	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	37	0.3783783783783784	6
+absolute	Ruminococcus gnavus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	43	49	0.8775510204081632	6
+absolute	Ruminococcus gnavus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	49	0.12244897959183673	6
+absolute	Ruminococcus gnavus	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	35	0.6285714285714286	6
+absolute	Ruminococcus gnavus	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	35	0.37142857142857144	6
+absolute	Ruminococcus gnavus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	49	0.7959183673469388	6
+absolute	Ruminococcus gnavus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	10	49	0.20408163265306123	6
+absolute	Ruminococcus gnavus	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	38	0.5	6
+absolute	Ruminococcus gnavus	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	38	0.5	6
+absolute	Ruminococcus gnavus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	49	0.8163265306122449	6
+absolute	Ruminococcus gnavus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	49	0.1836734693877551	6
+absolute	Ruminococcus gnavus	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	38	0.4473684210526316	6
+absolute	Ruminococcus gnavus	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	38	0.5526315789473685	6
+absolute	Ruminococcus gnavus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	48	0.8541666666666666	6
+absolute	Ruminococcus gnavus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	48	0.14583333333333334	6
+absolute	Ruminococcus gnavus	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	38	0.4473684210526316	6
+absolute	Ruminococcus gnavus	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	38	0.5526315789473685	6
+absolute	Ruminococcus gnavus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	47	0.8085106382978723	6
+absolute	Ruminococcus gnavus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	47	0.19148936170212766	6
+absolute	Ruminococcus gnavus	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	38	0.5	6
+absolute	Ruminococcus gnavus	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	38	0.5	6
+absolute	Streptococcus parasanguinis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	51	54	0.9444444444444444	6
+absolute	Streptococcus parasanguinis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	54	0.05555555555555555	6
+absolute	Streptococcus parasanguinis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	32	0.75	6
+absolute	Streptococcus parasanguinis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	8	32	0.25	6
+absolute	Streptococcus parasanguinis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	54	0.9259259259259259	6
+absolute	Streptococcus parasanguinis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	54	0.07407407407407407	6
+absolute	Streptococcus parasanguinis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	30	0.7666666666666667	6
+absolute	Streptococcus parasanguinis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	30	0.23333333333333334	6
+absolute	Streptococcus parasanguinis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	54	0.8888888888888888	6
+absolute	Streptococcus parasanguinis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	54	0.1111111111111111	6
+absolute	Streptococcus parasanguinis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	33	0.8181818181818182	6
+absolute	Streptococcus parasanguinis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	6	33	0.18181818181818182	6
+absolute	Streptococcus parasanguinis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	54	0.8888888888888888	6
+absolute	Streptococcus parasanguinis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	54	0.1111111111111111	6
+absolute	Streptococcus parasanguinis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	33	0.7878787878787878	6
+absolute	Streptococcus parasanguinis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	33	0.21212121212121213	6
+absolute	Streptococcus parasanguinis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	53	0.8867924528301887	6
+absolute	Streptococcus parasanguinis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	53	0.11320754716981132	6
+absolute	Streptococcus parasanguinis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	33	0.7878787878787878	6
+absolute	Streptococcus parasanguinis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	33	0.21212121212121213	6
+absolute	Streptococcus parasanguinis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	53	0.8679245283018868	6
+absolute	Streptococcus parasanguinis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	53	0.1320754716981132	6
+absolute	Streptococcus parasanguinis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	32	0.78125	6
+absolute	Streptococcus parasanguinis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	32	0.21875	6
+absolute	Streptococcus salivarius	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	53	0.9245283018867925	6
+absolute	Streptococcus salivarius	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	53	0.07547169811320754	6
+absolute	Streptococcus salivarius	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	33	0.8484848484848485	6
+absolute	Streptococcus salivarius	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	5	33	0.15151515151515152	6
+absolute	Streptococcus salivarius	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	53	0.9056603773584906	6
+absolute	Streptococcus salivarius	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	53	0.09433962264150944	6
+absolute	Streptococcus salivarius	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	31	0.9032258064516129	6
+absolute	Streptococcus salivarius	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	31	0.0967741935483871	6
+absolute	Streptococcus salivarius	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	53	0.8490566037735849	6
+absolute	Streptococcus salivarius	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	53	0.1509433962264151	6
+absolute	Streptococcus salivarius	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	34	0.7941176470588235	6
+absolute	Streptococcus salivarius	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	34	0.20588235294117646	6
+absolute	Streptococcus salivarius	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	53	0.8490566037735849	6
+absolute	Streptococcus salivarius	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	53	0.1509433962264151	6
+absolute	Streptococcus salivarius	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	34	0.7647058823529411	6
+absolute	Streptococcus salivarius	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	8	34	0.23529411764705882	6
+absolute	Streptococcus salivarius	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	42	52	0.8076923076923077	6
+absolute	Streptococcus salivarius	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	10	52	0.19230769230769232	6
+absolute	Streptococcus salivarius	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	34	0.8235294117647058	6
+absolute	Streptococcus salivarius	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	6	34	0.17647058823529413	6
+absolute	Streptococcus salivarius	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	52	0.7307692307692307	6
+absolute	Streptococcus salivarius	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	14	52	0.2692307692307692	6
+absolute	Streptococcus salivarius	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	29	33	0.8787878787878788	6
+absolute	Streptococcus salivarius	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	4	33	0.12121212121212122	6
+absolute	Veillonella parvula	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+absolute	Veillonella parvula	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	29	0.6551724137931034	6
+absolute	Veillonella parvula	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	10	29	0.3448275862068966	6
+absolute	Veillonella parvula	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+absolute	Veillonella parvula	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	27	0.6296296296296297	6
+absolute	Veillonella parvula	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	10	27	0.37037037037037035	6
+absolute	Veillonella parvula	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+absolute	Veillonella parvula	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	30	0.6333333333333333	6
+absolute	Veillonella parvula	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	30	0.36666666666666664	6
+absolute	Veillonella parvula	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	55	57	0.9649122807017544	6
+absolute	Veillonella parvula	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	57	0.03508771929824561	6
+absolute	Veillonella parvula	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	30	0.6333333333333333	6
+absolute	Veillonella parvula	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	30	0.36666666666666664	6
+absolute	Veillonella parvula	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	55	56	0.9821428571428571	6
+absolute	Veillonella parvula	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	56	0.017857142857142856	6
+absolute	Veillonella parvula	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	30	0.7	6
+absolute	Veillonella parvula	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	9	30	0.3	6
+absolute	Veillonella parvula	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	54	55	0.9818181818181818	6
+absolute	Veillonella parvula	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	55	0.01818181818181818	6
+absolute	Veillonella parvula	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	30	0.7	6
+absolute	Veillonella parvula	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	9	30	0.3	6
+relative	Bacteroides fragilis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	39	0.9487179487179487	6
+relative	Bacteroides fragilis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	39	0.05128205128205128	6
+relative	Bacteroides fragilis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	47	0.2978723404255319	6
+relative	Bacteroides fragilis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	33	47	0.7021276595744681	6
+relative	Bacteroides fragilis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	39	1	6
+relative	Bacteroides fragilis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	45	0.35555555555555557	6
+relative	Bacteroides fragilis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	29	45	0.6444444444444445	6
+relative	Bacteroides fragilis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Bacteroides fragilis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Bacteroides fragilis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	48	0.3958333333333333	6
+relative	Bacteroides fragilis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	29	48	0.6041666666666666	6
+relative	Bacteroides fragilis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Bacteroides fragilis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Bacteroides fragilis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	48	0.375	6
+relative	Bacteroides fragilis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	48	0.625	6
+relative	Bacteroides fragilis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+relative	Bacteroides fragilis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+relative	Bacteroides fragilis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	48	0.4791666666666667	6
+relative	Bacteroides fragilis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	48	0.5208333333333334	6
+relative	Bacteroides fragilis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+relative	Bacteroides fragilis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+relative	Bacteroides fragilis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+relative	Bacteroides fragilis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+relative	Bacteroides thetaiotaomicron	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+relative	Bacteroides thetaiotaomicron	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	5	37	0.13513513513513514	6
+relative	Bacteroides thetaiotaomicron	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	37	0.8648648648648649	6
+relative	Bacteroides thetaiotaomicron	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+relative	Bacteroides thetaiotaomicron	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	5	35	0.14285714285714285	6
+relative	Bacteroides thetaiotaomicron	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	35	0.8571428571428571	6
+relative	Bacteroides thetaiotaomicron	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+relative	Bacteroides thetaiotaomicron	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	38	0.2631578947368421	6
+relative	Bacteroides thetaiotaomicron	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	38	0.7368421052631579	6
+relative	Bacteroides thetaiotaomicron	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	49	1	6
+relative	Bacteroides thetaiotaomicron	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	38	0.2894736842105263	6
+relative	Bacteroides thetaiotaomicron	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	38	0.7105263157894737	6
+relative	Bacteroides thetaiotaomicron	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	48	0.9791666666666666	6
+relative	Bacteroides thetaiotaomicron	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	48	0.020833333333333332	6
+relative	Bacteroides thetaiotaomicron	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	38	0.34210526315789475	6
+relative	Bacteroides thetaiotaomicron	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	38	0.6578947368421053	6
+relative	Bacteroides thetaiotaomicron	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	47	0.9787234042553191	6
+relative	Bacteroides thetaiotaomicron	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	47	0.02127659574468085	6
+relative	Bacteroides thetaiotaomicron	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	12	38	0.3157894736842105	6
+relative	Bacteroides thetaiotaomicron	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	38	0.6842105263157895	6
+relative	Bacteroides uniformis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	40	0.85	6
+relative	Bacteroides uniformis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	40	0.15	6
+relative	Bacteroides uniformis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	46	0.34782608695652173	6
+relative	Bacteroides uniformis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	46	0.6521739130434783	6
+relative	Bacteroides uniformis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+relative	Bacteroides uniformis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+relative	Bacteroides uniformis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	44	0.36363636363636365	6
+relative	Bacteroides uniformis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	44	0.6363636363636364	6
+relative	Bacteroides uniformis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	40	1	6
+relative	Bacteroides uniformis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	47	0.44680851063829785	6
+relative	Bacteroides uniformis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	26	47	0.5531914893617021	6
+relative	Bacteroides uniformis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+relative	Bacteroides uniformis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+relative	Bacteroides uniformis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+relative	Bacteroides uniformis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+relative	Bacteroides uniformis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	39	0.9230769230769231	6
+relative	Bacteroides uniformis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	39	0.07692307692307693	6
+relative	Bacteroides uniformis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	47	0.5106382978723404	6
+relative	Bacteroides uniformis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	47	0.48936170212765956	6
+relative	Bacteroides uniformis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	39	0.8974358974358975	6
+relative	Bacteroides uniformis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	39	0.10256410256410256	6
+relative	Bacteroides uniformis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	46	0.4782608695652174	6
+relative	Bacteroides uniformis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	46	0.5217391304347826	6
+relative	Clostridium perfringens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+relative	Clostridium perfringens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+relative	Clostridium perfringens	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	44	0.5681818181818182	6
+relative	Clostridium perfringens	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	44	0.4318181818181818	6
+relative	Clostridium perfringens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	42	0.9285714285714286	6
+relative	Clostridium perfringens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	42	0.07142857142857142	6
+relative	Clostridium perfringens	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	42	0.5238095238095238	6
+relative	Clostridium perfringens	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	42	0.47619047619047616	6
+relative	Clostridium perfringens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	42	0.9285714285714286	6
+relative	Clostridium perfringens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	42	0.07142857142857142	6
+relative	Clostridium perfringens	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	27	45	0.6	6
+relative	Clostridium perfringens	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	45	0.4	6
+relative	Clostridium perfringens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	42	0.9047619047619048	6
+relative	Clostridium perfringens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	42	0.09523809523809523	6
+relative	Clostridium perfringens	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	45	0.6222222222222222	6
+relative	Clostridium perfringens	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	45	0.37777777777777777	6
+relative	Clostridium perfringens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	41	0.9024390243902439	6
+relative	Clostridium perfringens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	41	0.0975609756097561	6
+relative	Clostridium perfringens	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	45	0.6222222222222222	6
+relative	Clostridium perfringens	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	45	0.37777777777777777	6
+relative	Clostridium perfringens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	41	0.8536585365853658	6
+relative	Clostridium perfringens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	41	0.14634146341463414	6
+relative	Clostridium perfringens	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	44	0.5909090909090909	6
+relative	Clostridium perfringens	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	44	0.4090909090909091	6
+relative	Collinsella aerofaciens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	43	49	0.8775510204081632	6
+relative	Collinsella aerofaciens	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	49	0.12244897959183673	6
+relative	Collinsella aerofaciens	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	37	0.40540540540540543	6
+relative	Collinsella aerofaciens	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	37	0.5945945945945946	6
+relative	Collinsella aerofaciens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	49	0.8163265306122449	6
+relative	Collinsella aerofaciens	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	49	0.1836734693877551	6
+relative	Collinsella aerofaciens	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	13	35	0.37142857142857144	6
+relative	Collinsella aerofaciens	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	35	0.6285714285714286	6
+relative	Collinsella aerofaciens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+relative	Collinsella aerofaciens	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+relative	Collinsella aerofaciens	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	38	0.3684210526315789	6
+relative	Collinsella aerofaciens	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	38	0.631578947368421	6
+relative	Collinsella aerofaciens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	47	49	0.9591836734693877	6
+relative	Collinsella aerofaciens	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	49	0.04081632653061224	6
+relative	Collinsella aerofaciens	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	38	0.3684210526315789	6
+relative	Collinsella aerofaciens	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	38	0.631578947368421	6
+relative	Collinsella aerofaciens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	48	0.8333333333333334	6
+relative	Collinsella aerofaciens	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	48	0.16666666666666666	6
+relative	Collinsella aerofaciens	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	38	0.5	6
+relative	Collinsella aerofaciens	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	38	0.5	6
+relative	Collinsella aerofaciens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	47	0.8297872340425532	6
+relative	Collinsella aerofaciens	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	47	0.1702127659574468	6
+relative	Collinsella aerofaciens	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	38	0.5526315789473685	6
+relative	Collinsella aerofaciens	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	38	0.4473684210526316	6
+relative	Coprococcus comes	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+relative	Coprococcus comes	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+relative	Coprococcus comes	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	45	0.4888888888888889	6
+relative	Coprococcus comes	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	45	0.5111111111111111	6
+relative	Coprococcus comes	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+relative	Coprococcus comes	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+relative	Coprococcus comes	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	43	0.46511627906976744	6
+relative	Coprococcus comes	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	43	0.5348837209302325	6
+relative	Coprococcus comes	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+relative	Coprococcus comes	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+relative	Coprococcus comes	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	46	0.3695652173913043	6
+relative	Coprococcus comes	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	29	46	0.6304347826086957	6
+relative	Coprococcus comes	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	41	0.9512195121951219	6
+relative	Coprococcus comes	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	41	0.04878048780487805	6
+relative	Coprococcus comes	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	46	0.391304347826087	6
+relative	Coprococcus comes	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	46	0.6086956521739131	6
+relative	Coprococcus comes	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+relative	Coprococcus comes	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+relative	Coprococcus comes	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	46	0.5	6
+relative	Coprococcus comes	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	46	0.5	6
+relative	Coprococcus comes	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	40	0.925	6
+relative	Coprococcus comes	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	40	0.075	6
+relative	Coprococcus comes	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	45	0.4444444444444444	6
+relative	Coprococcus comes	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	45	0.5555555555555556	6
+relative	Dorea formicigenerans	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	29	36	0.8055555555555556	6
+relative	Dorea formicigenerans	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	36	0.19444444444444445	6
+relative	Dorea formicigenerans	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	50	0.42	6
+relative	Dorea formicigenerans	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	29	50	0.58	6
+relative	Dorea formicigenerans	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	30	36	0.8333333333333334	6
+relative	Dorea formicigenerans	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	36	0.16666666666666666	6
+relative	Dorea formicigenerans	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	48	0.4375	6
+relative	Dorea formicigenerans	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	48	0.5625	6
+relative	Dorea formicigenerans	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	29	36	0.8055555555555556	6
+relative	Dorea formicigenerans	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	36	0.19444444444444445	6
+relative	Dorea formicigenerans	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	51	0.47058823529411764	6
+relative	Dorea formicigenerans	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	51	0.5294117647058824	6
+relative	Dorea formicigenerans	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	31	36	0.8611111111111112	6
+relative	Dorea formicigenerans	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	36	0.1388888888888889	6
+relative	Dorea formicigenerans	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	51	0.5098039215686274	6
+relative	Dorea formicigenerans	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	51	0.49019607843137253	6
+relative	Dorea formicigenerans	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	31	35	0.8857142857142857	6
+relative	Dorea formicigenerans	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	35	0.11428571428571428	6
+relative	Dorea formicigenerans	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	51	0.37254901960784315	6
+relative	Dorea formicigenerans	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	51	0.6274509803921569	6
+relative	Dorea formicigenerans	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	29	35	0.8285714285714286	6
+relative	Dorea formicigenerans	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	35	0.17142857142857143	6
+relative	Dorea formicigenerans	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	50	0.38	6
+relative	Dorea formicigenerans	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	50	0.62	6
+relative	Eggerthella lenta	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	52	58	0.896551724137931	6
+relative	Eggerthella lenta	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	58	0.10344827586206896	6
+relative	Eggerthella lenta	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	27	0.3333333333333333	6
+relative	Eggerthella lenta	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	27	0.6666666666666666	6
+relative	Eggerthella lenta	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	58	0.8448275862068966	6
+relative	Eggerthella lenta	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	58	0.15517241379310345	6
+relative	Eggerthella lenta	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	25	0.36	6
+relative	Eggerthella lenta	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	25	0.64	6
+relative	Eggerthella lenta	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	51	58	0.8793103448275862	6
+relative	Eggerthella lenta	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	58	0.1206896551724138	6
+relative	Eggerthella lenta	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	28	0.39285714285714285	6
+relative	Eggerthella lenta	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	28	0.6071428571428571	6
+relative	Eggerthella lenta	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	49	58	0.8448275862068966	6
+relative	Eggerthella lenta	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	58	0.15517241379310345	6
+relative	Eggerthella lenta	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	28	0.32142857142857145	6
+relative	Eggerthella lenta	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	28	0.6785714285714286	6
+relative	Eggerthella lenta	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	57	0.6842105263157895	6
+relative	Eggerthella lenta	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	18	57	0.3157894736842105	6
+relative	Eggerthella lenta	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	28	0.6071428571428571	6
+relative	Eggerthella lenta	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	28	0.39285714285714285	6
+relative	Eggerthella lenta	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	56	0.625	6
+relative	Eggerthella lenta	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	21	56	0.375	6
+relative	Eggerthella lenta	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	28	0.6071428571428571	6
+relative	Eggerthella lenta	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	28	0.39285714285714285	6
+relative	Enterocloster bolteae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+relative	Enterocloster bolteae	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	2	33	0.06060606060606061	6
+relative	Enterocloster bolteae	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	33	0.9393939393939394	6
+relative	Enterocloster bolteae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+relative	Enterocloster bolteae	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	1	31	0.03225806451612903	6
+relative	Enterocloster bolteae	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	31	0.967741935483871	6
+relative	Enterocloster bolteae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+relative	Enterocloster bolteae	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	3	34	0.08823529411764706	6
+relative	Enterocloster bolteae	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	34	0.9117647058823529	6
+relative	Enterocloster bolteae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	53	1	6
+relative	Enterocloster bolteae	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	2	34	0.058823529411764705	6
+relative	Enterocloster bolteae	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	34	0.9411764705882353	6
+relative	Enterocloster bolteae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	52	52	1	6
+relative	Enterocloster bolteae	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	4	34	0.11764705882352941	6
+relative	Enterocloster bolteae	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	34	0.8823529411764706	6
+relative	Enterocloster bolteae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	51	0.9803921568627451	6
+relative	Enterocloster bolteae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	51	0.0196078431372549	6
+relative	Enterocloster bolteae	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	6	34	0.17647058823529413	6
+relative	Enterocloster bolteae	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	34	0.8235294117647058	6
+relative	Erysipelatoclostridium ramosum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+relative	Erysipelatoclostridium ramosum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+relative	Erysipelatoclostridium ramosum	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	30	0.26666666666666666	6
+relative	Erysipelatoclostridium ramosum	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	30	0.7333333333333333	6
+relative	Erysipelatoclostridium ramosum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+relative	Erysipelatoclostridium ramosum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+relative	Erysipelatoclostridium ramosum	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	29	0.3103448275862069	6
+relative	Erysipelatoclostridium ramosum	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	29	0.6896551724137931	6
+relative	Erysipelatoclostridium ramosum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	54	54	1	6
+relative	Erysipelatoclostridium ramosum	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	31	0.2903225806451613	6
+relative	Erysipelatoclostridium ramosum	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	22	31	0.7096774193548387	6
+relative	Erysipelatoclostridium ramosum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	54	0.9814814814814815	6
+relative	Erysipelatoclostridium ramosum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	54	0.018518518518518517	6
+relative	Erysipelatoclostridium ramosum	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	31	0.22580645161290322	6
+relative	Erysipelatoclostridium ramosum	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	31	0.7741935483870968	6
+relative	Erysipelatoclostridium ramosum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	43	53	0.8113207547169812	6
+relative	Erysipelatoclostridium ramosum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	10	53	0.18867924528301888	6
+relative	Erysipelatoclostridium ramosum	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	31	0.5483870967741935	6
+relative	Erysipelatoclostridium ramosum	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	31	0.45161290322580644	6
+relative	Erysipelatoclostridium ramosum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	52	0.7884615384615384	6
+relative	Erysipelatoclostridium ramosum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	11	52	0.21153846153846154	6
+relative	Erysipelatoclostridium ramosum	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	31	0.5161290322580645	6
+relative	Erysipelatoclostridium ramosum	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	31	0.4838709677419355	6
+relative	Escherichia coli ED1a	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+relative	Escherichia coli ED1a	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	11	0.7272727272727273	6
+relative	Escherichia coli ED1a	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	3	11	0.2727272727272727	6
+relative	Escherichia coli ED1a	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	72	73	0.9863013698630136	6
+relative	Escherichia coli ED1a	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	73	0.0136986301369863	6
+relative	Escherichia coli ED1a	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	5	10	0.5	6
+relative	Escherichia coli ED1a	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	5	10	0.5	6
+relative	Escherichia coli ED1a	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+relative	Escherichia coli ED1a	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	12	0.5833333333333334	6
+relative	Escherichia coli ED1a	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	5	12	0.4166666666666667	6
+relative	Escherichia coli ED1a	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	74	74	1	6
+relative	Escherichia coli ED1a	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	12	0.5833333333333334	6
+relative	Escherichia coli ED1a	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	5	12	0.4166666666666667	6
+relative	Escherichia coli ED1a	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	72	73	0.9863013698630136	6
+relative	Escherichia coli ED1a	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	73	0.0136986301369863	6
+relative	Escherichia coli ED1a	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	12	0.6666666666666666	6
+relative	Escherichia coli ED1a	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	4	12	0.3333333333333333	6
+relative	Escherichia coli ED1a	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	69	72	0.9583333333333334	6
+relative	Escherichia coli ED1a	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	72	0.041666666666666664	6
+relative	Escherichia coli ED1a	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	12	0.5833333333333334	6
+relative	Escherichia coli ED1a	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	5	12	0.4166666666666667	6
+relative	Eubacterium rectale	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	28	37	0.7567567567567568	6
+relative	Eubacterium rectale	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	37	0.24324324324324326	6
+relative	Eubacterium rectale	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	49	0.42857142857142855	6
+relative	Eubacterium rectale	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	49	0.5714285714285714	6
+relative	Eubacterium rectale	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	22	37	0.5945945945945946	6
+relative	Eubacterium rectale	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	15	37	0.40540540540540543	6
+relative	Eubacterium rectale	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	47	0.3191489361702128	6
+relative	Eubacterium rectale	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	47	0.6808510638297872	6
+relative	Eubacterium rectale	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	30	37	0.8108108108108109	6
+relative	Eubacterium rectale	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	37	0.1891891891891892	6
+relative	Eubacterium rectale	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	50	0.36	6
+relative	Eubacterium rectale	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	50	0.64	6
+relative	Eubacterium rectale	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	30	37	0.8108108108108109	6
+relative	Eubacterium rectale	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	37	0.1891891891891892	6
+relative	Eubacterium rectale	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	50	0.36	6
+relative	Eubacterium rectale	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	32	50	0.64	6
+relative	Eubacterium rectale	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	33	36	0.9166666666666666	6
+relative	Eubacterium rectale	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	36	0.08333333333333333	6
+relative	Eubacterium rectale	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	50	0.32	6
+relative	Eubacterium rectale	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	34	50	0.68	6
+relative	Eubacterium rectale	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	35	0.9714285714285714	6
+relative	Eubacterium rectale	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	35	0.02857142857142857	6
+relative	Eubacterium rectale	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	50	0.34	6
+relative	Eubacterium rectale	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	33	50	0.66	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	44	49	0.8979591836734694	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	49	0.10204081632653061	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	37	0.4864864864864865	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	37	0.5135135135135135	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	49	0.8367346938775511	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	49	0.16326530612244897	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	35	0.6	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	35	0.4	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	49	0.9387755102040817	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	49	0.061224489795918366	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	38	0.5526315789473685	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	38	0.4473684210526316	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	49	0.9183673469387755	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	49	0.08163265306122448	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	38	0.5263157894736842	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	38	0.47368421052631576	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	48	0.7708333333333334	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	11	48	0.22916666666666666	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	38	0.6578947368421053	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	38	0.34210526315789475	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	32	47	0.6808510638297872	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	15	47	0.3191489361702128	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	25	38	0.6578947368421053	6
+relative	Fusobacterium nucleatum subsp. nucleatum	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	38	0.34210526315789475	6
+relative	Lacrimispora saccharolytica	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	44	49	0.8979591836734694	6
+relative	Lacrimispora saccharolytica	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	49	0.10204081632653061	6
+relative	Lacrimispora saccharolytica	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	37	0.24324324324324326	6
+relative	Lacrimispora saccharolytica	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	37	0.7567567567567568	6
+relative	Lacrimispora saccharolytica	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	49	0.8367346938775511	6
+relative	Lacrimispora saccharolytica	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	49	0.16326530612244897	6
+relative	Lacrimispora saccharolytica	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	35	0.22857142857142856	6
+relative	Lacrimispora saccharolytica	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	35	0.7714285714285715	6
+relative	Lacrimispora saccharolytica	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	49	0.9795918367346939	6
+relative	Lacrimispora saccharolytica	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	49	0.02040816326530612	6
+relative	Lacrimispora saccharolytica	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	38	0.21052631578947367	6
+relative	Lacrimispora saccharolytica	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	38	0.7894736842105263	6
+relative	Lacrimispora saccharolytica	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	49	0.9795918367346939	6
+relative	Lacrimispora saccharolytica	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	49	0.02040816326530612	6
+relative	Lacrimispora saccharolytica	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	4	38	0.10526315789473684	6
+relative	Lacrimispora saccharolytica	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	34	38	0.8947368421052632	6
+relative	Lacrimispora saccharolytica	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	44	48	0.9166666666666666	6
+relative	Lacrimispora saccharolytica	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	48	0.08333333333333333	6
+relative	Lacrimispora saccharolytica	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	38	0.18421052631578946	6
+relative	Lacrimispora saccharolytica	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	38	0.8157894736842105	6
+relative	Lacrimispora saccharolytica	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	48	0.9375	6
+relative	Lacrimispora saccharolytica	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	48	0.0625	6
+relative	Lacrimispora saccharolytica	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	7	37	0.1891891891891892	6
+relative	Lacrimispora saccharolytica	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	30	37	0.8108108108108109	6
+relative	Parabacteroides merdae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+relative	Parabacteroides merdae	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+relative	Parabacteroides merdae	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	8	44	0.18181818181818182	6
+relative	Parabacteroides merdae	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	36	44	0.8181818181818182	6
+relative	Parabacteroides merdae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	39	42	0.9285714285714286	6
+relative	Parabacteroides merdae	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	42	0.07142857142857142	6
+relative	Parabacteroides merdae	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	42	0.2619047619047619	6
+relative	Parabacteroides merdae	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	42	0.7380952380952381	6
+relative	Parabacteroides merdae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+relative	Parabacteroides merdae	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+relative	Parabacteroides merdae	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	16	45	0.35555555555555557	6
+relative	Parabacteroides merdae	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	29	45	0.6444444444444445	6
+relative	Parabacteroides merdae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	42	0.9523809523809523	6
+relative	Parabacteroides merdae	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	42	0.047619047619047616	6
+relative	Parabacteroides merdae	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	45	0.3111111111111111	6
+relative	Parabacteroides merdae	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	31	45	0.6888888888888889	6
+relative	Parabacteroides merdae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	41	0.9024390243902439	6
+relative	Parabacteroides merdae	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	41	0.0975609756097561	6
+relative	Parabacteroides merdae	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	45	0.4444444444444444	6
+relative	Parabacteroides merdae	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	45	0.5555555555555556	6
+relative	Parabacteroides merdae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	41	0.9024390243902439	6
+relative	Parabacteroides merdae	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	41	0.0975609756097561	6
+relative	Parabacteroides merdae	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	44	0.4318181818181818	6
+relative	Parabacteroides merdae	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	44	0.5681818181818182	6
+relative	Phocaeicola vulgatus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Phocaeicola vulgatus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Phocaeicola vulgatus	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	47	0.425531914893617	6
+relative	Phocaeicola vulgatus	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	47	0.574468085106383	6
+relative	Phocaeicola vulgatus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Phocaeicola vulgatus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Phocaeicola vulgatus	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	45	0.5333333333333333	6
+relative	Phocaeicola vulgatus	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	21	45	0.4666666666666667	6
+relative	Phocaeicola vulgatus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Phocaeicola vulgatus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Phocaeicola vulgatus	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	23	48	0.4791666666666667	6
+relative	Phocaeicola vulgatus	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	25	48	0.5208333333333334	6
+relative	Phocaeicola vulgatus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	38	39	0.9743589743589743	6
+relative	Phocaeicola vulgatus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	39	0.02564102564102564	6
+relative	Phocaeicola vulgatus	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	48	0.5	6
+relative	Phocaeicola vulgatus	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	24	48	0.5	6
+relative	Phocaeicola vulgatus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	38	0.8947368421052632	6
+relative	Phocaeicola vulgatus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	38	0.10526315789473684	6
+relative	Phocaeicola vulgatus	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	48	0.5833333333333334	6
+relative	Phocaeicola vulgatus	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	48	0.4166666666666667	6
+relative	Phocaeicola vulgatus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	34	37	0.918918918918919	6
+relative	Phocaeicola vulgatus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	37	0.08108108108108109	6
+relative	Phocaeicola vulgatus	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	28	48	0.5833333333333334	6
+relative	Phocaeicola vulgatus	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	20	48	0.4166666666666667	6
+relative	Roseburia intestinalis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	38	0.9473684210526315	6
+relative	Roseburia intestinalis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	38	0.05263157894736842	6
+relative	Roseburia intestinalis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	4	48	0.08333333333333333	6
+relative	Roseburia intestinalis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	44	48	0.9166666666666666	6
+relative	Roseburia intestinalis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+relative	Roseburia intestinalis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+relative	Roseburia intestinalis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	3	46	0.06521739130434782	6
+relative	Roseburia intestinalis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	43	46	0.9347826086956522	6
+relative	Roseburia intestinalis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	37	38	0.9736842105263158	6
+relative	Roseburia intestinalis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	38	0.02631578947368421	6
+relative	Roseburia intestinalis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	4	49	0.08163265306122448	6
+relative	Roseburia intestinalis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	45	49	0.9183673469387755	6
+relative	Roseburia intestinalis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	38	0.9473684210526315	6
+relative	Roseburia intestinalis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	38	0.05263157894736842	6
+relative	Roseburia intestinalis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	6	49	0.12244897959183673	6
+relative	Roseburia intestinalis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	43	49	0.8775510204081632	6
+relative	Roseburia intestinalis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	37	0.972972972972973	6
+relative	Roseburia intestinalis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	37	0.02702702702702703	6
+relative	Roseburia intestinalis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	9	49	0.1836734693877551	6
+relative	Roseburia intestinalis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	40	49	0.8163265306122449	6
+relative	Roseburia intestinalis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	37	0.9459459459459459	6
+relative	Roseburia intestinalis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	37	0.05405405405405406	6
+relative	Roseburia intestinalis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	48	0.20833333333333334	6
+relative	Roseburia intestinalis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	38	48	0.7916666666666666	6
+relative	Ruminococcus gnavus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	49	0.7346938775510204	6
+relative	Ruminococcus gnavus	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	13	49	0.2653061224489796	6
+relative	Ruminococcus gnavus	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	20	37	0.5405405405405406	6
+relative	Ruminococcus gnavus	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	37	0.4594594594594595	6
+relative	Ruminococcus gnavus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	49	0.8367346938775511	6
+relative	Ruminococcus gnavus	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	49	0.16326530612244897	6
+relative	Ruminococcus gnavus	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	35	0.5142857142857142	6
+relative	Ruminococcus gnavus	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	35	0.4857142857142857	6
+relative	Ruminococcus gnavus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	41	49	0.8367346938775511	6
+relative	Ruminococcus gnavus	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	49	0.16326530612244897	6
+relative	Ruminococcus gnavus	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	38	0.2894736842105263	6
+relative	Ruminococcus gnavus	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	38	0.7105263157894737	6
+relative	Ruminococcus gnavus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	44	49	0.8979591836734694	6
+relative	Ruminococcus gnavus	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	49	0.10204081632653061	6
+relative	Ruminococcus gnavus	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	10	38	0.2631578947368421	6
+relative	Ruminococcus gnavus	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	28	38	0.7368421052631579	6
+relative	Ruminococcus gnavus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	40	48	0.8333333333333334	6
+relative	Ruminococcus gnavus	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	48	0.16666666666666666	6
+relative	Ruminococcus gnavus	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	11	38	0.2894736842105263	6
+relative	Ruminococcus gnavus	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	27	38	0.7105263157894737	6
+relative	Ruminococcus gnavus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	36	47	0.7659574468085106	6
+relative	Ruminococcus gnavus	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	11	47	0.23404255319148937	6
+relative	Ruminococcus gnavus	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	38	0.39473684210526316	6
+relative	Ruminococcus gnavus	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	23	38	0.6052631578947368	6
+relative	Streptococcus parasanguinis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	51	54	0.9444444444444444	6
+relative	Streptococcus parasanguinis	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	3	54	0.05555555555555555	6
+relative	Streptococcus parasanguinis	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	32	0.59375	6
+relative	Streptococcus parasanguinis	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	32	0.40625	6
+relative	Streptococcus parasanguinis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	50	54	0.9259259259259259	6
+relative	Streptococcus parasanguinis	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	4	54	0.07407407407407407	6
+relative	Streptococcus parasanguinis	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	30	0.6333333333333333	6
+relative	Streptococcus parasanguinis	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	30	0.36666666666666664	6
+relative	Streptococcus parasanguinis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	54	0.8888888888888888	6
+relative	Streptococcus parasanguinis	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	54	0.1111111111111111	6
+relative	Streptococcus parasanguinis	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	33	0.5454545454545454	6
+relative	Streptococcus parasanguinis	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	15	33	0.45454545454545453	6
+relative	Streptococcus parasanguinis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	54	0.8888888888888888	6
+relative	Streptococcus parasanguinis	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	6	54	0.1111111111111111	6
+relative	Streptococcus parasanguinis	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	19	33	0.5757575757575758	6
+relative	Streptococcus parasanguinis	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	33	0.42424242424242425	6
+relative	Streptococcus parasanguinis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	48	53	0.9056603773584906	6
+relative	Streptococcus parasanguinis	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	5	53	0.09433962264150944	6
+relative	Streptococcus parasanguinis	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	21	33	0.6363636363636364	6
+relative	Streptococcus parasanguinis	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	33	0.36363636363636365	6
+relative	Streptococcus parasanguinis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	53	0.8679245283018868	6
+relative	Streptococcus parasanguinis	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	53	0.1320754716981132	6
+relative	Streptococcus parasanguinis	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	32	0.6875	6
+relative	Streptococcus parasanguinis	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	10	32	0.3125	6
+relative	Streptococcus salivarius	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	46	53	0.8679245283018868	6
+relative	Streptococcus salivarius	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	7	53	0.1320754716981132	6
+relative	Streptococcus salivarius	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	22	33	0.6666666666666666	6
+relative	Streptococcus salivarius	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	11	33	0.3333333333333333	6
+relative	Streptococcus salivarius	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	53	0.8490566037735849	6
+relative	Streptococcus salivarius	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	53	0.1509433962264151	6
+relative	Streptococcus salivarius	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	31	0.7741935483870968	6
+relative	Streptococcus salivarius	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	31	0.22580645161290322	6
+relative	Streptococcus salivarius	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	45	53	0.8490566037735849	6
+relative	Streptococcus salivarius	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	8	53	0.1509433962264151	6
+relative	Streptococcus salivarius	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	34	0.5	6
+relative	Streptococcus salivarius	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	17	34	0.5	6
+relative	Streptococcus salivarius	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	44	53	0.8301886792452831	6
+relative	Streptococcus salivarius	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	53	0.16981132075471697	6
+relative	Streptococcus salivarius	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	34	0.4411764705882353	6
+relative	Streptococcus salivarius	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	19	34	0.5588235294117647	6
+relative	Streptococcus salivarius	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	43	52	0.8269230769230769	6
+relative	Streptococcus salivarius	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	9	52	0.17307692307692307	6
+relative	Streptococcus salivarius	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	24	34	0.7058823529411765	6
+relative	Streptococcus salivarius	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	10	34	0.29411764705882354	6
+relative	Streptococcus salivarius	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	35	52	0.6730769230769231	6
+relative	Streptococcus salivarius	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	17	52	0.3269230769230769	6
+relative	Streptococcus salivarius	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	26	33	0.7878787878787878	6
+relative	Streptococcus salivarius	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	7	33	0.21212121212121213	6
+relative	Veillonella parvula	LM1844	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+relative	Veillonella parvula	LM1844	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	15	29	0.5172413793103449	6
+relative	Veillonella parvula	LM1844	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	14	29	0.4827586206896552	6
+relative	Veillonella parvula	LM1844	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+relative	Veillonella parvula	LM1844	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	27	0.5185185185185185	6
+relative	Veillonella parvula	LM1844	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	27	0.48148148148148145	6
+relative	Veillonella parvula	LM1847	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+relative	Veillonella parvula	LM1847	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	14	30	0.4666666666666667	6
+relative	Veillonella parvula	LM1847	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	16	30	0.5333333333333333	6
+relative	Veillonella parvula	LM1847	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	57	57	1	6
+relative	Veillonella parvula	LM1847	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	12	30	0.4	6
+relative	Veillonella parvula	LM1847	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	18	30	0.6	6
+relative	Veillonella parvula	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	55	56	0.9821428571428571	6
+relative	Veillonella parvula	LM1857	1	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	1	56	0.017857142857142856	6
+relative	Veillonella parvula	LM1857	1	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	17	30	0.5666666666666667	6
+relative	Veillonella parvula	LM1857	1	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	13	30	0.43333333333333335	6
+relative	Veillonella parvula	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	expected (normal growth in both cases)	TRUE	53	55	0.9636363636363636	6
+relative	Veillonella parvula	LM1857	2	FALSE	sensitization (fraction of single-species non-hits)	sensitized in community	FALSE	2	55	0.03636363636363636	6
+relative	Veillonella parvula	LM1857	2	TRUE	protection (fraction of single-species hits)	expected (reduced growth in both cases)	TRUE	18	30	0.6	6
+relative	Veillonella parvula	LM1857	2	TRUE	protection (fraction of single-species hits)	protected in community	FALSE	12	30	0.4	6

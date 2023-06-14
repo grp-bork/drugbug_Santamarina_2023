@@ -1,0 +1,691 @@
+flavor	drug	concentration	category	expected	hit	result	fraction	n	n_total	sample_type	max_time	AUC
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Bioaccumulation_only	10	0.13840556360349696
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Bioaccumulation_only	7.5	0.09675433818741602
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Bioaccumulation_only	2.5	0.09328116549492593
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Bioaccumulation_only	5	0.07366229078183678
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Bioaccumulation_only	1.25	0.06754965156237824
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation &_bioaccumulation	2.5	0.03896870812723133
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation &_bioaccumulation	1.25	0.023496294646662252
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation &_bioaccumulation	10	0.01444324105761315
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation &_bioaccumulation	5	-0.030218175496747334
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation_only	1.25	-0.04405335691571599
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation &_bioaccumulation	7.5	-0.045409901554195026
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation_only	2.5	-0.05431245736769461
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation_only	5	-0.10388046627858412
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation_only	10	-0.12396232254588382
+absolute	Amlodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7111111111111111	10.666666666666666	15	Biotransformation_only	7.5	-0.14216423974161105
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation &_bioaccumulation	10	0.6562195671977749
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation &_bioaccumulation	7.5	0.6257876518388965
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation &_bioaccumulation	5	0.572895003913881
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation_only	7.5	0.47156264188424873
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation_only	10	0.45959396762770394
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation_only	5	0.4497340902249517
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation &_bioaccumulation	2.5	0.449311199507596
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation_only	2.5	0.33401267262088324
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation &_bioaccumulation	1.25	0.286036620396801
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Biotransformation_only	1.25	0.2053174866507476
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Bioaccumulation_only	10	0.19662559957007092
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Bioaccumulation_only	7.5	0.1542250099546477
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Bioaccumulation_only	5	0.1231609136889293
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Bioaccumulation_only	2.5	0.11529852688671274
+absolute	Aprepitant	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.16666666666666666	0.16666666666666666	0.16666666666666666	Bioaccumulation_only	1.25	0.08071913374605341
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation &_bioaccumulation	10	0.6562195671977749
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation &_bioaccumulation	7.5	0.6257876518388965
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation &_bioaccumulation	5	0.572895003913881
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation_only	7.5	0.47156264188424873
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation_only	10	0.45959396762770394
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation_only	5	0.4497340902249517
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation &_bioaccumulation	2.5	0.449311199507596
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation_only	2.5	0.33401267262088324
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation &_bioaccumulation	1.25	0.286036620396801
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Biotransformation_only	1.25	0.2053174866507476
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Bioaccumulation_only	10	0.19662559957007092
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Bioaccumulation_only	7.5	0.1542250099546477
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Bioaccumulation_only	5	0.1231609136889293
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Bioaccumulation_only	2.5	0.11529852688671274
+absolute	Aprepitant	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.2833333333333333	5.666666666666667	20	Bioaccumulation_only	1.25	0.08071913374605341
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation &_bioaccumulation	10	0.29979841885682956
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation &_bioaccumulation	7.5	0.2276038241613236
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation_only	10	0.17814096625319772
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation &_bioaccumulation	5	0.15886136151206073
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Bioaccumulation_only	10	0.15845886005721893
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Bioaccumulation_only	5	0.15168135910409059
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Bioaccumulation_only	2.5	0.14720562981434837
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Bioaccumulation_only	7.5	0.14655965335363105
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation_only	7.5	0.13011271407914202
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Bioaccumulation_only	1.25	0.11513988392562025
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation_only	5	0.08078281731514433
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation_only	1.25	-0
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation_only	2.5	-0
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation &_bioaccumulation	1.25	-0
+absolute	Aprepitant	30	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6960784313725491	11.833333333333334	17	Biotransformation &_bioaccumulation	2.5	-0
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation &_bioaccumulation	10	0.29979841885682956
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation &_bioaccumulation	7.5	0.2276038241613236
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation_only	10	0.17814096625319772
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation &_bioaccumulation	5	0.15886136151206073
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Bioaccumulation_only	10	0.15845886005721893
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Bioaccumulation_only	5	0.15168135910409059
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Bioaccumulation_only	2.5	0.14720562981434837
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Bioaccumulation_only	7.5	0.14655965335363105
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation_only	7.5	0.13011271407914202
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Bioaccumulation_only	1.25	0.11513988392562025
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation_only	5	0.08078281731514433
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation_only	1.25	-0
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation_only	2.5	-0
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation &_bioaccumulation	1.25	-0
+absolute	Aprepitant	30	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	0.8333333333333334	3.3333333333333335	Biotransformation &_bioaccumulation	2.5	-0
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation &_bioaccumulation	10	0.30328200926590204
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation &_bioaccumulation	7.5	0.24213985957186565
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Bioaccumulation_only	10	0.22450392534520885
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation &_bioaccumulation	5	0.21581397022123472
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation &_bioaccumulation	2.5	0.1922616372661406
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Bioaccumulation_only	7.5	0.19085519219507177
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Bioaccumulation_only	5	0.16652635866329474
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation &_bioaccumulation	1.25	0.1157358007345954
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation_only	2.5	0.10047661439974438
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Bioaccumulation_only	2.5	0.09178502286639623
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation_only	1.25	0.08285683490517587
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation_only	10	0.07877808392069319
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation_only	7.5	0.0512846673767939
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Biotransformation_only	5	0.04928761155793998
+absolute	Aripiprazole	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08730158730158731	1.8333333333333333	17.5	Bioaccumulation_only	1.25	0.032878965829419515
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation &_bioaccumulation	10	0.05997655130829775
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation_only	10	0.04962479314194889
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation &_bioaccumulation	7.5	0.036615072136644694
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation_only	7.5	0.03129843725252356
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation &_bioaccumulation	5	0.029118416476038623
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation_only	5	0.02767440492364621
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Bioaccumulation_only	10	0.010351758166348868
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation &_bioaccumulation	1.25	0.009274758653463444
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation_only	1.25	0.007324298512683958
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Bioaccumulation_only	7.5	0.005316634884121134
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Bioaccumulation_only	1.25	0.0019504601407794864
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Bioaccumulation_only	5	0.0014440115523924046
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Bioaccumulation_only	2.5	0.0013679411539304076
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation &_bioaccumulation	2.5	3.6007947258895334e-4
+absolute	Azithromycin	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2333333333333333	4.666666666666667	20	Biotransformation_only	2.5	-0.0010078616813414543
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Bioaccumulation_only	10	0.1099822297465769
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation &_bioaccumulation	10	0.0962314727812699
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Bioaccumulation_only	7.5	0.07735684519246169
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation &_bioaccumulation	5	0.07689421273478317
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation &_bioaccumulation	2.5	0.07654323559263085
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation &_bioaccumulation	7.5	0.07171443387128115
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Bioaccumulation_only	5	0.06028192766543563
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation &_bioaccumulation	1.25	0.04945413700265244
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Bioaccumulation_only	2.5	0.04696226564449263
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Bioaccumulation_only	1.25	0.03264402244397163
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation_only	2.5	0.02958096994813822
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation_only	1.25	0.01681011455868081
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation_only	5	0.016612285069347518
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation_only	7.5	-0.005642411321180531
+absolute	Chlorpromazine	5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.8333333333333334	9.166666666666666	11	Biotransformation_only	10	-0.013750756965306999
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Bioaccumulation_only	10	0.1099822297465769
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation &_bioaccumulation	10	0.0962314727812699
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Bioaccumulation_only	7.5	0.07735684519246169
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation &_bioaccumulation	5	0.07689421273478317
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation &_bioaccumulation	2.5	0.07654323559263085
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation &_bioaccumulation	7.5	0.07171443387128115
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Bioaccumulation_only	5	0.06028192766543563
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation &_bioaccumulation	1.25	0.04945413700265244
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Bioaccumulation_only	2.5	0.04696226564449263
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Bioaccumulation_only	1.25	0.03264402244397163
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation_only	2.5	0.02958096994813822
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation_only	1.25	0.01681011455868081
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation_only	5	0.016612285069347518
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation_only	7.5	-0.005642411321180531
+absolute	Chlorpromazine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.06666666666666667	0.6666666666666666	3.3333333333333335	Biotransformation_only	10	-0.013750756965306999
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation &_bioaccumulation	10	0.13446481731032528
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation_only	10	0.12031585700380647
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation &_bioaccumulation	7.5	0.09065412985018222
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation_only	7.5	0.08157473743528118
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation &_bioaccumulation	5	0.05055534126802406
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation_only	5	0.044526331647498474
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Bioaccumulation_only	10	0.012195945583624808
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Bioaccumulation_only	7.5	0.006475372784375664
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Bioaccumulation_only	5	0.0021229801747375404
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation_only	1.25	-0
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation_only	2.5	-0
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation &_bioaccumulation	1.25	-0
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Biotransformation &_bioaccumulation	2.5	-0
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Bioaccumulation_only	2.5	-0.007812058891576074
+absolute	Chlorpromazine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.25396825396825395	5.333333333333333	21	Bioaccumulation_only	1.25	-0.015491755750216774
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Bioaccumulation_only	5	0.04616126439859755
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Bioaccumulation_only	10	0.045424058584955504
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Bioaccumulation_only	7.5	0.0446722663751719
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Bioaccumulation_only	2.5	0.034729479600742186
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation &_bioaccumulation	5	0.021802696213731224
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation &_bioaccumulation	1.25	0.02171061753731457
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation &_bioaccumulation	2.5	0.021307632469687282
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Bioaccumulation_only	1.25	0.013350498193801574
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation &_bioaccumulation	7.5	0.012104821673198568
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation_only	1.25	0.008360119343512995
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation &_bioaccumulation	10	1.943624089964166e-4
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation_only	2.5	-0.013421847131054904
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation_only	5	-0.024358568184866328
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation_only	7.5	-0.03256744470197334
+absolute	Ciprofloxacin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35238095238095235	7.4	21	Biotransformation_only	10	-0.04522969617595909
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation &_bioaccumulation	10	0.4088646407133136
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation &_bioaccumulation	7.5	0.3439989733660982
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation &_bioaccumulation	5	0.2932987269514681
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation &_bioaccumulation	2.5	0.2874295368379701
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation_only	5	0.25245622940660384
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation_only	2.5	0.24987168608930355
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation &_bioaccumulation	1.25	0.21748869685040298
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation_only	7.5	0.21251971650347973
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation_only	10	0.2096094576929425
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Bioaccumulation_only	10	0.19925518302037112
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Biotransformation_only	1.25	0.13417938059963008
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Bioaccumulation_only	7.5	0.13147925686261844
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Bioaccumulation_only	1.25	0.08330931625077287
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Bioaccumulation_only	5	0.04084249754486425
+absolute	Clomiphene	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7291666666666666	5.833333333333333	8	Bioaccumulation_only	2.5	0.03755785074866656
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation &_bioaccumulation	10	0.4088646407133136
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation &_bioaccumulation	7.5	0.3439989733660982
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation &_bioaccumulation	5	0.2932987269514681
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation &_bioaccumulation	2.5	0.2874295368379701
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation_only	5	0.25245622940660384
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation_only	2.5	0.24987168608930355
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation &_bioaccumulation	1.25	0.21748869685040298
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation_only	7.5	0.21251971650347973
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation_only	10	0.2096094576929425
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Bioaccumulation_only	10	0.19925518302037112
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Biotransformation_only	1.25	0.13417938059963008
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Bioaccumulation_only	7.5	0.13147925686261844
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Bioaccumulation_only	1.25	0.08330931625077287
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Bioaccumulation_only	5	0.04084249754486425
+absolute	Clomiphene	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.14102564102564105	1.8333333333333333	6.5	Bioaccumulation_only	2.5	0.03755785074866656
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Bioaccumulation_only	10	0.0927990722148335
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Bioaccumulation_only	7.5	0.07732967018610205
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Bioaccumulation_only	5	0.04886926194518998
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation &_bioaccumulation	10	0.03579284934597611
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Bioaccumulation_only	2.5	0.030912055887140966
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation &_bioaccumulation	2.5	0.019986063832664852
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Bioaccumulation_only	1.25	0.013660604870375681
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation &_bioaccumulation	1.25	0.002422224561762887
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation &_bioaccumulation	5	-0.005614791911001407
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation &_bioaccumulation	7.5	-0.007873437201460878
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation_only	2.5	-0.010925992054476114
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation_only	1.25	-0.011238380308612794
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation_only	5	-0.054484053856191386
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation_only	10	-0.057006222868857405
+absolute	Dienestrol	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4871794871794872	6.333333333333333	13	Biotransformation_only	7.5	-0.08520310738756294
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Bioaccumulation_only	10	0.0927990722148335
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Bioaccumulation_only	7.5	0.07732967018610205
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Bioaccumulation_only	5	0.04886926194518998
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation &_bioaccumulation	10	0.03579284934597611
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Bioaccumulation_only	2.5	0.030912055887140966
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation &_bioaccumulation	2.5	0.019986063832664852
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Bioaccumulation_only	1.25	0.013660604870375681
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation &_bioaccumulation	1.25	0.002422224561762887
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation &_bioaccumulation	5	-0.005614791911001407
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation &_bioaccumulation	7.5	-0.007873437201460878
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation_only	2.5	-0.010925992054476114
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation_only	1.25	-0.011238380308612794
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation_only	5	-0.054484053856191386
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation_only	10	-0.057006222868857405
+absolute	Dienestrol	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.10416666666666667	0.8333333333333334	5.333333333333333	Biotransformation_only	7.5	-0.08520310738756294
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation &_bioaccumulation	10	0.09446124979864233
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation_only	10	0.08036616764481455
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation &_bioaccumulation	7.5	0.046437516171389186
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation_only	7.5	0.03877833372318214
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Bioaccumulation_only	10	0.014095082153827787
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Bioaccumulation_only	7.5	0.007659182448207051
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Bioaccumulation_only	5	0.007283620289194465
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Bioaccumulation_only	2.5	0.004130985925941633
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Bioaccumulation_only	1.25	-0.0012470135090741352
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation &_bioaccumulation	5	-0.003978581719533872
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation_only	5	-0.011262202008728336
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation_only	1.25	-0.05957958120001999
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation &_bioaccumulation	2.5	-0.060378853144793986
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation &_bioaccumulation	1.25	-0.06082659470909413
+absolute	Doxycycline	2.5	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.29365079365079366	6.166666666666667	21	Biotransformation_only	2.5	-0.06450983907073563
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation &_bioaccumulation	10	0.7274455059562022
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation &_bioaccumulation	7.5	0.7227110480462702
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation &_bioaccumulation	5	0.6633337564359372
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation &_bioaccumulation	2.5	0.5057568349329917
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Bioaccumulation_only	10	0.3674711579558717
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Bioaccumulation_only	7.5	0.36172750462457604
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation_only	7.5	0.3609835434216941
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation_only	10	0.3599743480003304
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Bioaccumulation_only	5	0.3573046767605953
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation_only	5	0.3060290796753419
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation &_bioaccumulation	1.25	0.28883430326075404
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Bioaccumulation_only	2.5	0.2623922212705147
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation_only	2.5	0.24336461366247714
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Biotransformation_only	1.25	0.1645851080178708
+absolute	Ebselen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4583333333333333	3.6666666666666665	8	Bioaccumulation_only	1.25	0.12424919524288328
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation &_bioaccumulation	10	0.7274455059562022
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation &_bioaccumulation	7.5	0.7227110480462702
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation &_bioaccumulation	5	0.6633337564359372
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation &_bioaccumulation	2.5	0.5057568349329917
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Bioaccumulation_only	10	0.3674711579558717
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Bioaccumulation_only	7.5	0.36172750462457604
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation_only	7.5	0.3609835434216941
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation_only	10	0.3599743480003304
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Bioaccumulation_only	5	0.3573046767605953
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation_only	5	0.3060290796753419
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation &_bioaccumulation	1.25	0.28883430326075404
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Bioaccumulation_only	2.5	0.2623922212705147
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation_only	2.5	0.24336461366247714
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Biotransformation_only	1.25	0.1645851080178708
+absolute	Ebselen	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.17948717948717952	2.3333333333333335	13	Bioaccumulation_only	1.25	0.12424919524288328
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation &_bioaccumulation	10	0.5267986396461498
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation_only	10	0.5113450230120543
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation &_bioaccumulation	7.5	0.41401264149998546
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation_only	7.5	0.39324566101165487
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation &_bioaccumulation	5	0.25338463158297797
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation_only	5	0.2338135456946988
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation &_bioaccumulation	2.5	0.14618308915344602
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation_only	2.5	0.11503477695901836
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation &_bioaccumulation	1.25	0.10652373474955272
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Biotransformation_only	1.25	0.06761795565358242
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Bioaccumulation_only	1.25	0.038905779095970316
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Bioaccumulation_only	2.5	0.03114831219442768
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Bioaccumulation_only	7.5	0.020766980488330603
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Bioaccumulation_only	5	0.019571085888279202
+absolute	Entacapone	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9166666666666666	18.333333333333332	20	Bioaccumulation_only	10	0.015453616634095437
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Bioaccumulation_only	10	0.19921329406902488
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Bioaccumulation_only	2.5	0.18166398766409045
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation &_bioaccumulation	2.5	0.14684291073514594
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Bioaccumulation_only	1.25	0.1435334268796009
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Bioaccumulation_only	7.5	0.13969854137538773
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Bioaccumulation_only	5	0.12907220546410852
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation &_bioaccumulation	5	0.10134632075186245
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation &_bioaccumulation	1.25	0.07488639564229932
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation &_bioaccumulation	10	0.05550401697098961
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation &_bioaccumulation	7.5	0.03368382398310352
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation_only	5	-0.027725884712246074
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation_only	2.5	-0.03482107692894454
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation_only	1.25	-0.06864703123730159
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation_only	7.5	-0.10601471739228421
+absolute	Felodipine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.35185185185185186	6.333333333333333	18	Biotransformation_only	10	-0.1437092770980353
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Bioaccumulation_only	10	0.19921329406902488
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Bioaccumulation_only	2.5	0.18166398766409045
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation &_bioaccumulation	2.5	0.14684291073514594
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Bioaccumulation_only	1.25	0.1435334268796009
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Bioaccumulation_only	7.5	0.13969854137538773
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Bioaccumulation_only	5	0.12907220546410852
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation &_bioaccumulation	5	0.10134632075186245
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation &_bioaccumulation	1.25	0.07488639564229932
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation &_bioaccumulation	10	0.05550401697098961
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation &_bioaccumulation	7.5	0.03368382398310352
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation_only	5	-0.027725884712246074
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation_only	2.5	-0.03482107692894454
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation_only	1.25	-0.06864703123730159
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation_only	7.5	-0.10601471739228421
+absolute	Felodipine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.1111111111111111	0.3333333333333333	1	Biotransformation_only	10	-0.1437092770980353
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Bioaccumulation_only	2.5	0.12925026955510788
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Bioaccumulation_only	5	0.1292422994559037
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Bioaccumulation_only	7.5	0.12169991426294097
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Bioaccumulation_only	10	0.12132074241451365
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Bioaccumulation_only	1.25	0.08650911127302185
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation &_bioaccumulation	1.25	-0.011517785058463348
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation &_bioaccumulation	2.5	-0.06579279294384083
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation &_bioaccumulation	10	-0.0735628737254182
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation_only	1.25	-0.0980268963314852
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation &_bioaccumulation	7.5	-0.10416019616088693
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation &_bioaccumulation	5	-0.11078128298772434
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation_only	10	-0.19488361613993185
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation_only	2.5	-0.1950430624989487
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation_only	7.5	-0.2258601104238279
+absolute	Ketoconazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.5606060606060607	6.166666666666667	11	Biotransformation_only	5	-0.24002358244362804
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Bioaccumulation_only	2.5	0.12925026955510788
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Bioaccumulation_only	5	0.1292422994559037
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Bioaccumulation_only	7.5	0.12169991426294097
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Bioaccumulation_only	10	0.12132074241451365
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Bioaccumulation_only	1.25	0.08650911127302185
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation &_bioaccumulation	1.25	-0.011517785058463348
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation &_bioaccumulation	2.5	-0.06579279294384083
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation &_bioaccumulation	10	-0.0735628737254182
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation_only	1.25	-0.0980268963314852
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation &_bioaccumulation	7.5	-0.10416019616088693
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation &_bioaccumulation	5	-0.11078128298772434
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation_only	10	-0.19488361613993185
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation_only	2.5	-0.1950430624989487
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation_only	7.5	-0.2258601104238279
+absolute	Ketoconazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3166666666666667	3.1666666666666665	10	Biotransformation_only	5	-0.24002358244362804
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation &_bioaccumulation	10	0.3135408540082615
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation_only	10	0.3123351390753325
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation &_bioaccumulation	7.5	0.25852927535338016
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation_only	7.5	0.25715293898219205
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation &_bioaccumulation	5	0.16388348585872864
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation_only	5	0.1580676831353821
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation &_bioaccumulation	2.5	0.07110005568016733
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation_only	2.5	0.05858424796090261
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation &_bioaccumulation	1.25	0.04731131643057651
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Biotransformation_only	1.25	0.03840189203234212
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Bioaccumulation_only	2.5	0.012515807719264721
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Bioaccumulation_only	1.25	0.008909424398234389
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Bioaccumulation_only	5	0.0058158027233465165
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Bioaccumulation_only	7.5	0.001376336371188136
+absolute	Lansoprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6904761904761904	4.833333333333333	7	Bioaccumulation_only	10	0.001205714932928974
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation &_bioaccumulation	10	0.3135408540082615
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation_only	10	0.3123351390753325
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation &_bioaccumulation	7.5	0.25852927535338016
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation_only	7.5	0.25715293898219205
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation &_bioaccumulation	5	0.16388348585872864
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation_only	5	0.1580676831353821
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation &_bioaccumulation	2.5	0.07110005568016733
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation_only	2.5	0.05858424796090261
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation &_bioaccumulation	1.25	0.04731131643057651
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Biotransformation_only	1.25	0.03840189203234212
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Bioaccumulation_only	2.5	0.012515807719264721
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Bioaccumulation_only	1.25	0.008909424398234389
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Bioaccumulation_only	5	0.0058158027233465165
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Bioaccumulation_only	7.5	0.001376336371188136
+absolute	Lansoprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.08333333333333333	1.1666666666666667	11.666666666666666	Bioaccumulation_only	10	0.001205714932928974
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Bioaccumulation_only	10	0.15412500761362385
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Bioaccumulation_only	7.5	0.1431080817103447
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Bioaccumulation_only	5	0.12097987304827418
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Bioaccumulation_only	2.5	0.1183333221807896
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Bioaccumulation_only	1.25	0.0985882104023485
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation &_bioaccumulation	1.25	0.06019335695817529
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation &_bioaccumulation	10	0.04865473094009333
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation &_bioaccumulation	2.5	0.019731640285622548
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation &_bioaccumulation	7.5	0.0032488300858280195
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation &_bioaccumulation	5	-0.024257558773372476
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation_only	1.25	-0.038394853444173205
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation_only	2.5	-0.09860168189516705
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation_only	10	-0.10547027667353051
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation_only	7.5	-0.1398592516245167
+absolute	Loratadine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6851851851851851	6.166666666666667	9	Biotransformation_only	5	-0.14523743182164667
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Bioaccumulation_only	10	0.15412500761362385
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Bioaccumulation_only	7.5	0.1431080817103447
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Bioaccumulation_only	5	0.12097987304827418
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Bioaccumulation_only	2.5	0.1183333221807896
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Bioaccumulation_only	1.25	0.0985882104023485
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation &_bioaccumulation	1.25	0.06019335695817529
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation &_bioaccumulation	10	0.04865473094009333
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation &_bioaccumulation	2.5	0.019731640285622548
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation &_bioaccumulation	7.5	0.0032488300858280195
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation &_bioaccumulation	5	-0.024257558773372476
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation_only	1.25	-0.038394853444173205
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation_only	2.5	-0.09860168189516705
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation_only	10	-0.10547027667353051
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation_only	7.5	-0.1398592516245167
+absolute	Loratadine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20833333333333334	2.5	12	Biotransformation_only	5	-0.14523743182164667
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation &_bioaccumulation	1.25	0.11657453161406484
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation &_bioaccumulation	10	0.11135338605989994
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Bioaccumulation_only	1.25	0.09124863429670677
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Bioaccumulation_only	2.5	0.08775692025639398
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation_only	10	0.08678854449010048
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation &_bioaccumulation	7.5	0.03219330436363239
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Bioaccumulation_only	5	0.02647681672355745
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation_only	1.25	0.02532589731735807
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Bioaccumulation_only	10	0.02456484156979947
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation_only	7.5	0.02090934752276737
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Bioaccumulation_only	7.5	0.011283956840865009
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation &_bioaccumulation	2.5	0.006763629310432673
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation &_bioaccumulation	5	-0.029075135945593134
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation_only	5	-0.055551952669150584
+absolute	Loxapine	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.4761904761904761	3.3333333333333335	7	Biotransformation_only	2.5	-0.0809932909459613
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation &_bioaccumulation	1.25	0.11657453161406484
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation &_bioaccumulation	10	0.11135338605989994
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Bioaccumulation_only	1.25	0.09124863429670677
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Bioaccumulation_only	2.5	0.08775692025639398
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation_only	10	0.08678854449010048
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation &_bioaccumulation	7.5	0.03219330436363239
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Bioaccumulation_only	5	0.02647681672355745
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation_only	1.25	0.02532589731735807
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Bioaccumulation_only	10	0.02456484156979947
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation_only	7.5	0.02090934752276737
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Bioaccumulation_only	7.5	0.011283956840865009
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation &_bioaccumulation	2.5	0.006763629310432673
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation &_bioaccumulation	5	-0.029075135945593134
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation_only	5	-0.055551952669150584
+absolute	Loxapine	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09523809523809523	1.3333333333333333	11.666666666666666	Biotransformation_only	2.5	-0.0809932909459613
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation_only	10	0.3553666132875578
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation &_bioaccumulation	10	0.3408026382573216
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation_only	7.5	0.2783860451990183
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation &_bioaccumulation	7.5	0.2623067405070111
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation_only	5	0.19430672952544198
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation &_bioaccumulation	5	0.1731555653196098
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation_only	2.5	0.09035210223161438
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation &_bioaccumulation	2.5	0.07191312204786685
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation_only	1.25	-0.00206474798389078
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Bioaccumulation_only	1.25	-0.00954623052897019
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Biotransformation &_bioaccumulation	1.25	-0.01161097851286097
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Bioaccumulation_only	10	-0.014563975030236131
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Bioaccumulation_only	7.5	-0.01607930469200719
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Bioaccumulation_only	2.5	-0.01843898018374754
+absolute	Mecillinam	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.3333333333333333	1.3333333333333333	4	Bioaccumulation_only	5	-0.021151164205832143
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation_only	10	0.3553666132875578
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation &_bioaccumulation	10	0.3408026382573216
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation_only	7.5	0.2783860451990183
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation &_bioaccumulation	7.5	0.2623067405070111
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation_only	5	0.19430672952544198
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation &_bioaccumulation	5	0.1731555653196098
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation_only	2.5	0.09035210223161438
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation &_bioaccumulation	2.5	0.07191312204786685
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation_only	1.25	-0.00206474798389078
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Bioaccumulation_only	1.25	-0.00954623052897019
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Biotransformation &_bioaccumulation	1.25	-0.01161097851286097
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Bioaccumulation_only	10	-0.014563975030236131
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Bioaccumulation_only	7.5	-0.01607930469200719
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Bioaccumulation_only	2.5	-0.01843898018374754
+absolute	Mecillinam	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.009803921568627449	0.16666666666666666	2.8333333333333335	Bioaccumulation_only	5	-0.021151164205832143
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation &_bioaccumulation	10	0.4062100898999059
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation &_bioaccumulation	7.5	0.29899272904305213
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Bioaccumulation_only	10	0.24393758090420925
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation &_bioaccumulation	5	0.22112554539888857
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation &_bioaccumulation	2.5	0.17731441319916802
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Bioaccumulation_only	7.5	0.1727603741617542
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation_only	10	0.1622725089956967
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation_only	7.5	0.126232354881298
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation &_bioaccumulation	1.25	0.12419763338680834
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Bioaccumulation_only	2.5	0.11965207978776986
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Bioaccumulation_only	5	0.11957374150129044
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Bioaccumulation_only	1.25	0.10612238837085441
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation_only	5	0.1015518038975981
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation_only	2.5	0.05766233341139813
+absolute	Mefloquine	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.65	6.5	10	Biotransformation_only	1.25	0.018075245015953922
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation &_bioaccumulation	10	0.4062100898999059
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation &_bioaccumulation	7.5	0.29899272904305213
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Bioaccumulation_only	10	0.24393758090420925
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation &_bioaccumulation	5	0.22112554539888857
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation &_bioaccumulation	2.5	0.17731441319916802
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Bioaccumulation_only	7.5	0.1727603741617542
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation_only	10	0.1622725089956967
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation_only	7.5	0.126232354881298
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation &_bioaccumulation	1.25	0.12419763338680834
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Bioaccumulation_only	2.5	0.11965207978776986
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Bioaccumulation_only	5	0.11957374150129044
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Bioaccumulation_only	1.25	0.10612238837085441
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation_only	5	0.1015518038975981
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation_only	2.5	0.05766233341139813
+absolute	Mefloquine	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.09090909090909093	1	9.166666666666666	Biotransformation_only	1.25	0.018075245015953922
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation &_bioaccumulation	7.5	0.07140464262119052
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation_only	7.5	0.0589343176571551
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation &_bioaccumulation	10	0.04855282955473225
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation_only	10	0.02999992349438495
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation &_bioaccumulation	5	0.020040733786461346
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Bioaccumulation_only	10	0.018552906060347304
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation_only	5	0.018004167478015365
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Bioaccumulation_only	7.5	0.01247032496403542
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Bioaccumulation_only	5	0.0020365663084459806
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation_only	2.5	-0.010517588684493262
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Bioaccumulation_only	2.5	-0.012783672596528128
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Bioaccumulation_only	1.25	-0.01353473125237592
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation &_bioaccumulation	2.5	-0.02330126128102139
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation_only	1.25	-0.02400586133294008
+absolute	Methotrexate	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.2962962962962963	2.6666666666666665	9	Biotransformation &_bioaccumulation	1.25	-0.037540592585316
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation &_bioaccumulation	7.5	0.07140464262119052
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation_only	7.5	0.0589343176571551
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation &_bioaccumulation	10	0.04855282955473225
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation_only	10	0.02999992349438495
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation &_bioaccumulation	5	0.020040733786461346
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Bioaccumulation_only	10	0.018552906060347304
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation_only	5	0.018004167478015365
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Bioaccumulation_only	7.5	0.01247032496403542
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Bioaccumulation_only	5	0.0020365663084459806
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation_only	2.5	-0.010517588684493262
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Bioaccumulation_only	2.5	-0.012783672596528128
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Bioaccumulation_only	1.25	-0.01353473125237592
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation &_bioaccumulation	2.5	-0.02330126128102139
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation_only	1.25	-0.02400586133294008
+absolute	Methotrexate	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.3055555555555555	3.6666666666666665	12	Biotransformation &_bioaccumulation	1.25	-0.037540592585316
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation_only	10	0.6513518003286138
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation &_bioaccumulation	10	0.637790001175415
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation_only	7.5	0.6246432283234085
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation &_bioaccumulation	7.5	0.5990057430188537
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation_only	5	0.5780196697690785
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation &_bioaccumulation	5	0.5426743010228239
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation_only	2.5	0.44845316167367477
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation &_bioaccumulation	2.5	0.3884002979971224
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation_only	1.25	0.2630386406442029
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Biotransformation &_bioaccumulation	1.25	0.20982416334237358
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Bioaccumulation_only	10	-0.01356179915319879
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Bioaccumulation_only	7.5	-0.02563748530455472
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Bioaccumulation_only	5	-0.03534536874625457
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Bioaccumulation_only	1.25	-0.053214477301829356
+absolute	Niclosamide	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.6052631578947368	11.5	19	Bioaccumulation_only	2.5	-0.06005286367655242
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation_only	10	0.9303015174839702
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation &_bioaccumulation	10	0.930295497907828
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation_only	7.5	0.9010097979254681
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation &_bioaccumulation	7.5	0.9010017718239453
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation_only	5	0.8676391152683927
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation &_bioaccumulation	5	0.8676270761161083
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation_only	2.5	0.7335529296416591
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation &_bioaccumulation	2.5	0.7335288513370904
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation_only	1.25	0.4815587247680588
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Biotransformation &_bioaccumulation	1.25	0.4815346464634901
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Bioaccumulation_only	10	-6.019576142174995e-6
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Bioaccumulation_only	7.5	-8.026101522899993e-6
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Bioaccumulation_only	5	-1.203915228434999e-5
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Bioaccumulation_only	1.25	-2.407830456869998e-5
+absolute	Nifurtimox	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7129629629629629	12.833333333333334	18	Bioaccumulation_only	2.5	-2.407830456869998e-5
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation_only	10	0.9303015174839702
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation &_bioaccumulation	10	0.930295497907828
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation_only	7.5	0.9010097979254681
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation &_bioaccumulation	7.5	0.9010017718239453
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation_only	5	0.8676391152683927
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation &_bioaccumulation	5	0.8676270761161083
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation_only	2.5	0.7335529296416591
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation &_bioaccumulation	2.5	0.7335288513370904
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation_only	1.25	0.4815587247680588
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Biotransformation &_bioaccumulation	1.25	0.4815346464634901
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Bioaccumulation_only	10	-6.019576142174995e-6
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Bioaccumulation_only	7.5	-8.026101522899993e-6
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Bioaccumulation_only	5	-1.203915228434999e-5
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Bioaccumulation_only	1.25	-2.407830456869998e-5
+absolute	Nifurtimox	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.16666666666666666	0.5	1.5	Bioaccumulation_only	2.5	-2.407830456869998e-5
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Bioaccumulation_only	2.5	0.050665612114503246
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Bioaccumulation_only	7.5	0.05017826845279598
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Bioaccumulation_only	5	0.0488423093572138
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Bioaccumulation_only	10	0.04481291948504435
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Bioaccumulation_only	1.25	0.042953053190843526
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation &_bioaccumulation	5	0.02713773513785292
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation &_bioaccumulation	2.5	0.023567640591232397
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation &_bioaccumulation	10	0.022306249870939224
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation &_bioaccumulation	7.5	0.01815372315806274
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation &_bioaccumulation	1.25	0.014816884847723366
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation_only	5	-0.02170457421936088
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation_only	10	-0.022506669614105128
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation_only	2.5	-0.027097971523270842
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation_only	1.25	-0.02813616834312016
+absolute	Olanzapine	5	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.03968253968253968	0.8333333333333334	10.5	Biotransformation_only	7.5	-0.03202454529473324
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation_only	10	0.38599970464909067
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation &_bioaccumulation	10	0.377913106083532
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation_only	7.5	0.3150034583035728
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation &_bioaccumulation	7.5	0.30385516457071415
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation_only	5	0.2004750700083628
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation &_bioaccumulation	5	0.18890677355638757
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation_only	2.5	0.08558730021574971
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation &_bioaccumulation	2.5	0.08114272576977852
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation_only	1.25	0.05038479439050475
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Biotransformation &_bioaccumulation	1.25	0.04956757602006784
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Bioaccumulation_only	1.25	-8.172183704369118e-4
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Bioaccumulation_only	2.5	-0.004444574445971211
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Bioaccumulation_only	10	-0.00808659856555871
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Bioaccumulation_only	7.5	-0.011148293732858656
+absolute	Omeprazole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7777777777777778	2.3333333333333335	3	Bioaccumulation_only	5	-0.01156829645197524
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation_only	10	0.38599970464909067
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation &_bioaccumulation	10	0.377913106083532
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation_only	7.5	0.3150034583035728
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation &_bioaccumulation	7.5	0.30385516457071415
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation_only	5	0.2004750700083628
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation &_bioaccumulation	5	0.18890677355638757
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation_only	2.5	0.08558730021574971
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation &_bioaccumulation	2.5	0.08114272576977852
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation_only	1.25	0.05038479439050475
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Biotransformation &_bioaccumulation	1.25	0.04956757602006784
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Bioaccumulation_only	1.25	-8.172183704369118e-4
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Bioaccumulation_only	2.5	-0.004444574445971211
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Bioaccumulation_only	10	-0.00808659856555871
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Bioaccumulation_only	7.5	-0.011148293732858656
+absolute	Omeprazole	80	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.0925925925925926	1.6666666666666667	18	Bioaccumulation_only	5	-0.01156829645197524
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Bioaccumulation_only	5	0.13404870849168474
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Bioaccumulation_only	7.5	0.13192223176261447
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Bioaccumulation_only	10	0.12899697983824884
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Bioaccumulation_only	2.5	0.11498386118713502
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Bioaccumulation_only	1.25	0.07834794903484155
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation &_bioaccumulation	10	0.07416003656266482
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation &_bioaccumulation	2.5	0.07175350574291026
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation &_bioaccumulation	1.25	0.06053431472210635
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation &_bioaccumulation	7.5	0.05709418232067412
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation &_bioaccumulation	5	0.05324840656340123
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation_only	1.25	-0.017813634312735194
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation_only	2.5	-0.043230355444224766
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation_only	10	-0.05483694327558404
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation_only	7.5	-0.07482804944194038
+absolute	Oxolinic acid	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.20370370370370372	3.6666666666666665	18	Biotransformation_only	5	-0.08080030192828354
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation &_bioaccumulation	10	0.1314876616452456
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation_only	10	0.07734334678795132
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Bioaccumulation_only	10	0.054144314857294276
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation &_bioaccumulation	7.5	0.03651328416927046
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation &_bioaccumulation	1.25	0.031572230593054695
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Bioaccumulation_only	1.25	0.025770180029368872
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation_only	7.5	0.02535439975913716
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation &_bioaccumulation	2.5	0.021044192632467512
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation_only	2.5	0.013505260975565342
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation_only	5	0.011386082835768765
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Bioaccumulation_only	7.5	0.011158884410133296
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Bioaccumulation_only	2.5	0.00753893165690217
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation_only	1.25	0.005802050563685823
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Biotransformation &_bioaccumulation	5	-0.007424768588009931
+absolute	Sertindole	80	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9074074074074074	16.333333333333332	18	Bioaccumulation_only	5	-0.018810851423778696
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Bioaccumulation_only	10	0.3002357590020067
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Bioaccumulation_only	7.5	0.21541478370817682
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation &_bioaccumulation	10	0.21530670976846808
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation &_bioaccumulation	2.5	0.19374113658881464
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation_only	2.5	0.155976444831133
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation &_bioaccumulation	7.5	0.15006049547022185
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation &_bioaccumulation	1.25	0.1499213747538239
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation &_bioaccumulation	5	0.1429943124632499
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation_only	1.25	0.128288392280009
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Bioaccumulation_only	5	0.11282606909047992
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Bioaccumulation_only	2.5	0.037764691757681684
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation_only	5	0.030168243372769982
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Bioaccumulation_only	1.25	0.0216329824738149
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation_only	7.5	-0.06535428823795496
+absolute	Simvastatin	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.9500000000000001	9.5	10	Biotransformation_only	10	-0.08492904923353863
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Bioaccumulation_only	10	0.3002357590020067
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Bioaccumulation_only	7.5	0.21541478370817682
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation &_bioaccumulation	10	0.21530670976846808
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation &_bioaccumulation	2.5	0.19374113658881464
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation_only	2.5	0.155976444831133
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation &_bioaccumulation	7.5	0.15006049547022185
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation &_bioaccumulation	1.25	0.1499213747538239
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation &_bioaccumulation	5	0.1429943124632499
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation_only	1.25	0.128288392280009
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Bioaccumulation_only	5	0.11282606909047992
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Bioaccumulation_only	2.5	0.037764691757681684
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation_only	5	0.030168243372769982
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Bioaccumulation_only	1.25	0.0216329824738149
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation_only	7.5	-0.06535428823795496
+absolute	Simvastatin	20	sensitization (fraction of single-species non-hits)	FALSE	FALSE	sensitized in community	0.04545454545454546	0.5	5.5	Biotransformation_only	10	-0.08492904923353863
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation &_bioaccumulation	10	0.4810075515463247
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Bioaccumulation_only	10	0.43860141229121846
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation &_bioaccumulation	7.5	0.42933445862565756
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation &_bioaccumulation	5	0.3793927515759427
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Bioaccumulation_only	7.5	0.3759348276233923
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation &_bioaccumulation	2.5	0.3757205499683674
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Bioaccumulation_only	5	0.2880507153118365
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation &_bioaccumulation	1.25	0.2767764041262545
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Bioaccumulation_only	2.5	0.19267551058810087
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation_only	2.5	0.18304503938026653
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Bioaccumulation_only	1.25	0.15192311378400483
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation_only	1.25	0.12485329034224968
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation_only	5	0.09134203626410617
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation_only	7.5	0.05339963100226516
+absolute	Tamoxifen	20	protection (fraction of single-species hits)	FALSE	TRUE	protected in community	0.7333333333333334	14.666666666666666	20	Biotransformation_only	10	0.042406139255106154

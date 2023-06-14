@@ -1,0 +1,127 @@
+ID	Strain	Concentration	Drug_treatment	Technical_replicate	Biological_replicate	Experiment_number	MeasuredDrug_Time	MeasuredDrug	Time	MSdata/IS
+plate1_MGAM_time 0_SN + cells_A1	MGAM	40	nifurtimox	tech1	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_MGAM_time 0_SN + cells_C1	MGAM	40	nifurtimox	tech2	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_MGAM_time 0_SN + cells_D1	MGAM	40	nifurtimox	tech3	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_B. vulgatus_time 0_SN + cells_A2	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_B. vulgatus_time 0_SN + cells_B2	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_B. vulgatus_time 0_SN + cells_C2	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_B. vulgatus_time 0_SN + cells_D2	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_S. parasanguinis_time 0_SN + cells_A3	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_S. parasanguinis_time 0_SN + cells_B3	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_S. parasanguinis_time 0_SN + cells_C3	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_S. parasanguinis_time 0_SN + cells_D3	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_E. coli ED1a_time 0_SN + cells_A4	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_E. coli ED1a_time 0_SN + cells_B4	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_E. coli ED1a_time 0_SN + cells_C4	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_E. coli ED1a_time 0_SN + cells_D4	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	reduced_t0	reduced	t0	0
+plate1_MGAM_time 2,5h_SN + cells_E7	MGAM	40	nifurtimox	tech1	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_MGAM_time 2,5h_SN + cells_F7	MGAM	40	nifurtimox	tech2	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_MGAM_time 2,5h_SN + cells_G7	MGAM	40	nifurtimox	tech3	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_MGAM_time 2,5h_SN + cells_H7	MGAM	40	nifurtimox	tech4	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_B. vulgatus_time 2,5h_SN + cells_E8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_B. vulgatus_time 2,5h_SN + cells_F8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_B. vulgatus_time 2,5h_SN + cells_G8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_B. vulgatus_time 2,5h_SN + cells_H8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_S. parasanguinis_time 2,5h_SN + cells_E9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_S. parasanguinis_time 2,5h_SN + cells_F9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_S. parasanguinis_time 2,5h_SN + cells_G9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_S. parasanguinis_time 2,5h_SN + cells_H9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	reduced_t2.5	reduced	t2.5	0
+plate1_E. coli ED1a_time 2,5h_SN + cells_E10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	reduced_t2.5	reduced	t2.5	0.003980787376808555
+plate1_E. coli ED1a_time 2,5h_SN + cells_F10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	reduced_t2.5	reduced	t2.5	0.0023746693448013522
+plate1_E. coli ED1a_time 2,5h_SN + cells_G10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	reduced_t2.5	reduced	t2.5	0.0022686242870608533
+plate1_E. coli ED1a_time 2,5h_SN + cells_H10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	reduced_t2.5	reduced	t2.5	0.0024129822325584405
+plate2_MGAM_time 5_SN + cells_A7	MGAM	40	nifurtimox	tech1	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_MGAM_time 5_SN + cells_B7	MGAM	40	nifurtimox	tech2	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_MGAM_time 5_SN + cells_C7	MGAM	40	nifurtimox	tech3	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_MGAM_time 5_SN + cells_D7	MGAM	40	nifurtimox	tech4	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_B. vulgatus_time 5_SN + cells_A8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_B. vulgatus_time 5_SN + cells_B8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_B. vulgatus_time 5_SN + cells_C8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_B. vulgatus_time 5_SN + cells_D8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_S. parasanguinis_time 5_SN + cells_A9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_S. parasanguinis_time 5_SN + cells_B9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_S. parasanguinis_time 5_SN + cells_C9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_S. parasanguinis_time 5_SN + cells_D9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	reduced_t5	reduced	t5	0
+plate2_E. coli ED1a_time 5_SN + cells_A10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	reduced_t5	reduced	t5	0.06743324126864665
+plate2_E. coli ED1a_time 5_SN + cells_B10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	reduced_t5	reduced	t5	0.05597743858622844
+plate2_E. coli ED1a_time 5_SN + cells_C10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	reduced_t5	reduced	t5	0.04082455073869419
+plate2_E. coli ED1a_time 5_SN + cells_D10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	reduced_t5	reduced	t5	0.04919511170546908
+plate2_MGAM_time 7,5h_SN + cells_E7	MGAM	40	nifurtimox	tech1	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_MGAM_time 7,5h_SN + cells_F7	MGAM	40	nifurtimox	tech2	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_MGAM_time 7,5h_SN + cells_G7	MGAM	40	nifurtimox	tech3	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_MGAM_time 7,5h_SN + cells_H7	MGAM	40	nifurtimox	tech4	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_B. vulgatus_time 7,5h_SN + cells_E8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_B. vulgatus_time 7,5h_SN + cells_F8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_B. vulgatus_time 7,5h_SN + cells_G8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_B. vulgatus_time 7,5h_SN + cells_H8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	reduced_t7.5	reduced	t7.5	0
+plate2_S. parasanguinis_time 7,5h_SN + cells_E9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	reduced_t7.5	reduced	t7.5	0.060445604889694304
+plate2_S. parasanguinis_time 7,5h_SN + cells_F9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	reduced_t7.5	reduced	t7.5	0.049518687687245225
+plate2_S. parasanguinis_time 7,5h_SN + cells_G9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	reduced_t7.5	reduced	t7.5	0.036712290936707116
+plate2_S. parasanguinis_time 7,5h_SN + cells_H9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	reduced_t7.5	reduced	t7.5	0.030195181199333388
+plate2_E. coli ED1a_time 7,5h_SN + cells_E10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	reduced_t7.5	reduced	t7.5	0.09090407304339826
+plate2_E. coli ED1a_time 7,5h_SN + cells_F10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	reduced_t7.5	reduced	t7.5	0.098799909748445075
+plate2_E. coli ED1a_time 7,5h_SN + cells_G10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	reduced_t7.5	reduced	t7.5	0.08660776000598752
+plate2_E. coli ED1a_time 7,5h_SN + cells_H10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	reduced_t7.5	reduced	t7.5	0.10440987994454955
+plate1_MGAM_time 0_SN + cells_A1	MGAM	40	nifurtimox	tech1	biol1	exp193	oxidized_t0	oxidized	t0	0.07883365865397471
+plate1_MGAM_time 0_SN + cells_C1	MGAM	40	nifurtimox	tech2	biol1	exp193	oxidized_t0	oxidized	t0	0.07361679163048332
+plate1_MGAM_time 0_SN + cells_D1	MGAM	40	nifurtimox	tech3	biol1	exp193	oxidized_t0	oxidized	t0	0.07133323122032341
+plate1_B. vulgatus_time 0_SN + cells_A2	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	oxidized_t0	oxidized	t0	0.08514722364796212
+plate1_B. vulgatus_time 0_SN + cells_B2	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	oxidized_t0	oxidized	t0	0.07501776948535128
+plate1_B. vulgatus_time 0_SN + cells_C2	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	oxidized_t0	oxidized	t0	0.0853945609614725
+plate1_B. vulgatus_time 0_SN + cells_D2	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	oxidized_t0	oxidized	t0	0.08570766374221035
+plate1_S. parasanguinis_time 0_SN + cells_A3	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	oxidized_t0	oxidized	t0	0.0792091165535149
+plate1_S. parasanguinis_time 0_SN + cells_B3	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	oxidized_t0	oxidized	t0	0.07735336015922244
+plate1_S. parasanguinis_time 0_SN + cells_C3	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	oxidized_t0	oxidized	t0	0.076507579086116
+plate1_S. parasanguinis_time 0_SN + cells_D3	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	oxidized_t0	oxidized	t0	0.0756417329391681
+plate1_E. coli ED1a_time 0_SN + cells_A4	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	oxidized_t0	oxidized	t0	0.07674899464352583
+plate1_E. coli ED1a_time 0_SN + cells_B4	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	oxidized_t0	oxidized	t0	0.07496297598865788
+plate1_E. coli ED1a_time 0_SN + cells_C4	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	oxidized_t0	oxidized	t0	0.08920586318230737
+plate1_E. coli ED1a_time 0_SN + cells_D4	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	oxidized_t0	oxidized	t0	0.08353250759413192
+plate1_MGAM_time 2,5h_SN + cells_E7	MGAM	40	nifurtimox	tech1	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07989607500777345
+plate1_MGAM_time 2,5h_SN + cells_F7	MGAM	40	nifurtimox	tech2	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.08079160052638722
+plate1_MGAM_time 2,5h_SN + cells_G7	MGAM	40	nifurtimox	tech3	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.0804670143539162
+plate1_MGAM_time 2,5h_SN + cells_H7	MGAM	40	nifurtimox	tech4	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07047654748516925
+plate1_B. vulgatus_time 2,5h_SN + cells_E8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07751818280084621
+plate1_B. vulgatus_time 2,5h_SN + cells_F8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.0645860054154197
+plate1_B. vulgatus_time 2,5h_SN + cells_G8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.06410553329994992
+plate1_B. vulgatus_time 2,5h_SN + cells_H8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.059576029221763194
+plate1_S. parasanguinis_time 2,5h_SN + cells_E9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07226470118373778
+plate1_S. parasanguinis_time 2,5h_SN + cells_F9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07617648437866308
+plate1_S. parasanguinis_time 2,5h_SN + cells_G9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.08448174672152967
+plate1_S. parasanguinis_time 2,5h_SN + cells_H9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07042283221670603
+plate1_E. coli ED1a_time 2,5h_SN + cells_E10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.0843992451247641
+plate1_E. coli ED1a_time 2,5h_SN + cells_F10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07765423413730427
+plate1_E. coli ED1a_time 2,5h_SN + cells_G10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.07772754141836946
+plate1_E. coli ED1a_time 2,5h_SN + cells_H10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	oxidized_t2.5	oxidized	t2.5	0.08305057882462535
+plate2_MGAM_time 5_SN + cells_A7	MGAM	40	nifurtimox	tech1	biol1	exp193	oxidized_t5	oxidized	t5	0.06557879296152108
+plate2_MGAM_time 5_SN + cells_B7	MGAM	40	nifurtimox	tech2	biol1	exp193	oxidized_t5	oxidized	t5	0.08215639174287298
+plate2_MGAM_time 5_SN + cells_C7	MGAM	40	nifurtimox	tech3	biol1	exp193	oxidized_t5	oxidized	t5	0.05899433042331345
+plate2_MGAM_time 5_SN + cells_D7	MGAM	40	nifurtimox	tech4	biol1	exp193	oxidized_t5	oxidized	t5	0.07720461174779158
+plate2_B. vulgatus_time 5_SN + cells_A8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	oxidized_t5	oxidized	t5	0.07551232433461283
+plate2_B. vulgatus_time 5_SN + cells_B8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	oxidized_t5	oxidized	t5	0.049121922880400924
+plate2_B. vulgatus_time 5_SN + cells_C8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	oxidized_t5	oxidized	t5	0.05727213527047358
+plate2_B. vulgatus_time 5_SN + cells_D8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	oxidized_t5	oxidized	t5	0.06162264338655922
+plate2_S. parasanguinis_time 5_SN + cells_A9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	oxidized_t5	oxidized	t5	0.07992684825482432
+plate2_S. parasanguinis_time 5_SN + cells_B9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	oxidized_t5	oxidized	t5	0.08109372508018642
+plate2_S. parasanguinis_time 5_SN + cells_C9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	oxidized_t5	oxidized	t5	0.0707461697830139
+plate2_S. parasanguinis_time 5_SN + cells_D9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	oxidized_t5	oxidized	t5	0.0852432930403953
+plate2_E. coli ED1a_time 5_SN + cells_A10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	oxidized_t5	oxidized	t5	0.02623133560063333
+plate2_E. coli ED1a_time 5_SN + cells_B10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	oxidized_t5	oxidized	t5	0.04205710406488212
+plate2_E. coli ED1a_time 5_SN + cells_C10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	oxidized_t5	oxidized	t5	0.04218377536593196
+plate2_E. coli ED1a_time 5_SN + cells_D10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	oxidized_t5	oxidized	t5	0.049430199979188905
+plate2_MGAM_time 7,5h_SN + cells_E7	MGAM	40	nifurtimox	tech1	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.08930450942341216
+plate2_MGAM_time 7,5h_SN + cells_F7	MGAM	40	nifurtimox	tech2	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.08292118742082943
+plate2_MGAM_time 7,5h_SN + cells_G7	MGAM	40	nifurtimox	tech3	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.09051566752970856
+plate2_MGAM_time 7,5h_SN + cells_H7	MGAM	40	nifurtimox	tech4	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.09383255330213208
+plate2_B. vulgatus_time 7,5h_SN + cells_E8	B. vulgatus	40	nifurtimox	tech1	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.09329946632917666
+plate2_B. vulgatus_time 7,5h_SN + cells_F8	B. vulgatus	40	nifurtimox	tech2	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.0704658773823039
+plate2_B. vulgatus_time 7,5h_SN + cells_G8	B. vulgatus	40	nifurtimox	tech3	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.06114666921411285
+plate2_B. vulgatus_time 7,5h_SN + cells_H8	B. vulgatus	40	nifurtimox	tech4	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.058250455050563386
+plate2_S. parasanguinis_time 7,5h_SN + cells_E9	S. parasanguinis	40	nifurtimox	tech1	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.02905424219324152
+plate2_S. parasanguinis_time 7,5h_SN + cells_F9	S. parasanguinis	40	nifurtimox	tech2	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.03405612036082052
+plate2_S. parasanguinis_time 7,5h_SN + cells_G9	S. parasanguinis	40	nifurtimox	tech3	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.07282479244696825
+plate2_S. parasanguinis_time 7,5h_SN + cells_H9	S. parasanguinis	40	nifurtimox	tech4	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.0592847256689304
+plate2_E. coli ED1a_time 7,5h_SN + cells_E10	E. coli ED1a	40	nifurtimox	tech1	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.008040293461511925
+plate2_E. coli ED1a_time 7,5h_SN + cells_F10	E. coli ED1a	40	nifurtimox	tech2	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.00740743894184309
+plate2_E. coli ED1a_time 7,5h_SN + cells_G10	E. coli ED1a	40	nifurtimox	tech3	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.015510326275980786
+plate2_E. coli ED1a_time 7,5h_SN + cells_H10	E. coli ED1a	40	nifurtimox	tech4	biol1	exp193	oxidized_t7.5	oxidized	t7.5	0.011425756558584793
