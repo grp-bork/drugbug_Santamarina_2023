@@ -1,0 +1,9 @@
+Comment	Strain	Compound	Time	File
+Niclosamide, no bacteria control	MGAM	Niclo	t0	SD001L_Nic_Exp135_ZbC18_t0hr_F8.d
+Niclosamide, no bacteria control	MGAM	Niclo	t5	SD001L_Nic_Exp135_ZbC18_t5hr_F8.d
+Aminoniclosamide, no bacteria control	MGAM	Amino	t0	SD001L_Nic_Exp135_ZbC18_t0hr_B9.d
+Aminoniclosamide, no bacteria control	MGAM	Amino	t5	SD001L_Nic_Exp135_ZbC18_t5hr_B9.d
+Niclosamide, no bacteria control	C_comes	Niclo	t0	SD001L_Nic_Exp135_ZbC18_t0hr_F5.d
+Niclosamide, no bacteria control	C_comes	Niclo	t5	SD001L_Nic_Exp135_ZbC18_t5hr_F5.d
+Niclosamide, no bacteria control	R_intestinalis	Niclo	t0	SD001L_Nic_Exp135_ZbC18_t0hr_F3.d
+Niclosamide, no bacteria control	R_intestinalis	Niclo	t5	SD001L_Nic_Exp135_ZbC18_t5hr_F3.d

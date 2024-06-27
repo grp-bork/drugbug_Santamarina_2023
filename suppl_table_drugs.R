@@ -58,26 +58,33 @@ dt <- drugs %>% select(drug, target_species) %>% mutate(drug = fct_rev(drug))
 
 d %>% left_join(dt) %>% 
   ggplot(aes(concentration, drug, color = kind)) + 
-  geom_segment(data = cd %>% left_join(dt), aes(x = c1, y = drug, xend = c2, yend = drug), size = 2, alpha = 0.25, show.legend = F, lineend = "round") +
+  geom_segment(data = cd %>% left_join(dt), aes(x = c1, y = drug, xend = c2, yend = drug), size = 1, alpha = 0.25, show.legend = F, lineend = "round") +
   geom_point(aes(size = is_closest)) + 
-  geom_text(data = drugs, aes(y = drug, label = paste(N_hit_among_32, "")), x = Inf, hjust = 1, inherit.aes = F, size = 3) +
+  geom_text(data = drugs, aes(y = drug, label = paste(N_hit_among_32, "")), x = Inf, hjust = 1, inherit.aes = F, size = 2) +
   scale_x_log10(name = "Concentration (µM)", breaks = 10**(-5:5), label = as.character, expand = c(0,0), limits = c(0.15, 100000-1)) +
-  scale_size_manual(breaks = c(TRUE, FALSE), values = c(4,2), labels = c("Shown in Figure 2 (closest to colon concentration, if available)", "other concentration"), name = "") +
+  ylab("") +
+  scale_size_manual(breaks = c(TRUE, FALSE), values = c(2,1), labels = c("Shown in Figure 2 (closest to colon concentration, if available)", "other concentration"), name = "") +
   scale_color_discrete(name = "") +
   facet_grid(target_species~., scales = "free_y", space = "free") +
+  coord_cartesian(clip=F)+
   theme_minimal() +
   ggtitle("", subtitle = "Number of hits\nin Maier et al.") +
-  theme(
-    legend.position = "bottom",
-    legend.box = "vertical",
-    panel.grid.minor = element_blank(),
-    panel.grid.major.y = element_blank(),
-    axis.title.y = element_blank(),
-    strip.text.y = element_text(angle = 0),
-    strip.background = element_rect(fill = "lightgrey", linewidth = 0),
-    plot.subtitle = element_text(hjust = 1, size = 10)
-  )
+  theme(panel.grid.minor = element_blank(),
+        plot.subtitle = element_text(size = 6, hjust = 1),
+        axis.text = element_text(size = 5), 
+        axis.title = element_text(size = 6),
+        legend.title = element_text(size = 6),
+        legend.text = element_text(size = 6),
+        strip.text.y = element_text(size = 6, angle = 0),
+        strip.background = element_rect(color = "lightgrey", fill = "lightgrey"),
+        legend.margin = margin(-15,0,0,0),
+        legend.key.height = unit(0.2, "line"),
+        legend.position = "bottom",
+        legend.direction = "vertical",
+        legend.box = "vertical",
+        axis.ticks.length = unit(0, "pt") 
+  ) 
 
-ggsave("suppl_figures/suppl_figure_conditions_colon_concentrations.pdf", width = 20, height = 20, units = "cm")
-ggsave("suppl_figures/suppl_figure_conditions_colon_concentrations.png", width = 20, height = 20, units = "cm")
+ggsave("suppl_figures/S1B_conditions_colon_concentrations.png", width = 10, height = 11.5, units = "cm", dpi = 1000)
+# ggsave("suppl_figures/suppl_figure_conditions_colon_concentrations.pdf", width = 20, height = 20, units = "cm")
 

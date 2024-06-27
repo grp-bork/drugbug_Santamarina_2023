@@ -217,7 +217,7 @@ tp %>%
     legend.title = element_text(size = 8),
   ) 
 
-ggsave("suppl_figures/suppl_fig_classification.pdf", width = 18, height = 25, units = "cm")
+ggsave("figures/figS2.png", width = 18, height = 25, units = "cm", dpi = 1000, bg="white")
 
 
 ## taxonomy-based analysis -- without significant results!
@@ -241,68 +241,6 @@ kruskal.test(fraction ~ Class, d)
 kruskal.test(fraction ~ Order, d)  
 kruskal.test(fraction ~ Family, d)  
 kruskal.test(fraction ~ Genus, d)  
-
-pacman::p_load(ggtree)
-
-tree <- species_clades %>% rename(s = Species) %>% mutate(s = stri_replace_all_fixed(s, " ", "_")) %>% 
-  group_by(Phylum, Class, Order, Family, Genus) %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% 
-  group_by(Phylum, Class, Order, Family) %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% 
-  group_by(Phylum, Class, Order) %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% 
-  group_by(Phylum, Class) %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% 
-  group_by(Phylum) %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% 
-  ungroup() %>% summarise(s = paste0("(", paste0(s, collapse = ","),")")) %>% pull(s)
-  
-tree <- read.tree(text = paste0(tree, ";"))
-
-tree_grob <- ggplotGrob(ggtree(tree))
-
-p <- ggtree(tree) + geom_tiplab()
-
-
-
-species_levels <- rev(stri_replace_all_fixed(get_taxa_name(p), "_", " "))
-
-tp <- 
-  species_effect_stats %>% 
-  mutate(species = factor(as.character(species), levels = species_levels), 
-         y = as.integer(species), 
-         result = factor(result, levels = rev(classification$result))) %>% 
-  arrange(result) %>% 
-  group_by(species) %>% 
-  mutate(
-    x2 = cumsum(n),
-    x1 = x2 - n
-  ) 
-tl <- bind_rows(
-  tp %>% filter(!expected) %>% mutate(label = as.character(glue("{round(100*fraction)}%"))),
-  tp %>% group_by(species) %>% filter( n() == 1) %>% mutate(label = "0%")
-)
-
-to <- tp %>% group_by(y, category) %>% summarise(x1 = min(x1), x2 = max(x2))
-
-tp %>% 
-  ggplot(aes(xmin = x1, xmax=x2, ymin = y - 0.4, ymax = y+0.4)) +
-  geom_rect(aes(fill = result)) +
-  geom_rect(data = to, fill=alpha("grey",0), color = "black") +
-  geom_text(data = tl %>% filter(hit), aes(x = -0.1, y = y, label = label), hjust = 1, inherit.aes = F) +
-  geom_text(data = tl %>% filter(!hit), aes(x = 100, y = y, label = label), hjust = 1, inherit.aes = F) +
-  annotate("text", x = -2, y = max(tp$y)+1, label = "Protection in community", hjust = 0) +
-  annotate("text", x = 100, y = max(tp$y)+1, label = "Sensitization in community", hjust = 1) +
-  scale_fill_manual(values = c(COLOR_PROTECTION, COLOR_EXP_REDUCED, COLOR_EXP_NORMAL, COLOR_SENSITIZATION)) +
-  scale_x_continuous(limits = c(-18, 101), breaks = seq(0, 80, 20), expand = c(0,0), name = "Number of drug treatment conditions") +
-  scale_y_continuous(labels = levels(tp$species), breaks = seq_along(levels(tp$species)), name = "", expand = c(0,0.5)) +
-  annotation_custom(tree_grob, xmin = -128, xmax = -86.5, ymin = -0.05, ymax = 0.95+length(species_levels)) +
-  theme_minimal() +
-  theme(
-    panel.grid = element_blank(),
-    legend.position = "bottom",
-    legend.direction = "vertical",
-    plot.margin = margin(l = 80)
-  ) 
-
-ggsave("panels/fig2_classification_species_barchart.pdf", width = 8, height = 8)
-# ggsave("panels/fig2_classification_species_barchart.png", width = 8, height = 8, dpi = 1000, bg = "white")
-
 
 ## various correlations between species abundance and fraction of effects
 

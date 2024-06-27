@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-pacman::p_load(tidyverse, stringi, reshape2, ggforce, cowplot)
+pacman::p_load(tidyverse, stringi, reshape2, glue)
 
 counts <- read_tsv("data/16S_counts.tsv")
 effects <- read_tsv("data/effects.tsv") %>% filter(flavor == "absolute", !is.na(hit))
@@ -12,25 +12,23 @@ rel_abundance_corr <- function(d) {
   tibble(corr_s = ms[ upper.tri(ms) ], corr_p = mp[ upper.tri(mp) ])
 }
 
-abundance_ratio_corr <- function(d) {
-  m <- d %>% acast(NT_code ~ repl, value.var = "abundance_ratio") 
-  ms <- cor(m, method = "s")
-  mp <- cor(m, method = "p")
-  tibble(corr_s = ms[ upper.tri(ms) ], corr_p = mp[ upper.tri(mp) ])
-}
-
-
 d_control_biol <- counts %>% filter(!rare_species, control) %>% 
-  mutate(repl = paste(run, plate_number, sample_id)) %>% 
+  group_by(run, plate_number, NT_code) %>% 
+  summarise(rel_abundance = median(rel_abundance)) %>% 
+  mutate(repl = paste(run, plate_number)) %>% 
   group_by() %>% 
   group_modify(~ rel_abundance_corr(.x))
 
-d_control_tech <- counts %>% filter(!rare_species, control) %>% group_by(run) %>% 
+d_control_tech <- counts %>% filter(!rare_species, control) %>% 
   mutate(repl = paste(plate_number, sample_id)) %>% 
+  group_by(run) %>% 
   group_modify(~ rel_abundance_corr(.x))
 
-d_biol <- effects %>% filter(!rare_species) %>% group_by(drug, concentration) %>% 
-  mutate(repl = paste(run, tech_repl)) %>% 
+d_biol <- effects %>% filter(!rare_species) %>% 
+  group_by(drug, concentration, run, NT_code) %>% 
+  summarise(rel_abundance = median(rel_abundance)) %>% 
+  group_by(drug, concentration) %>% 
+  mutate(repl = run) %>% 
   group_modify(~ rel_abundance_corr(.x))
   
 d_tech <- effects %>% filter(!rare_species) %>% group_by(drug, concentration, run) %>% 
@@ -53,9 +51,14 @@ dcorr <- bind_rows(
   d_control_tech %>% mutate(kind = "Control", repl = "Technical replicates")
 )
 
-dcorr %>% mutate(repl = stri_replace_all_fixed(repl, " ", "\n")) %>% ggplot(aes(repl, corr_s)) + 
-  geom_boxplot(outlier.size = 0.5) + 
-  facet_wrap(~kind, ncol = 2) +
+dcorr <- dcorr %>% left_join(
+  dcorr %>% group_by(kind, repl) %>% count() %>% mutate(label = glue("{repl} (N={n})"), label = stri_replace_all_fixed(label, " ", "\n"))
+)
+
+dcorr %>% 
+  ggplot(aes(label, corr_s)) + 
+  geom_boxplot(outlier.size = 0.5, varwidth = T) + 
+  facet_wrap(~kind, ncol = 2, scales="free_x") +
   scale_x_discrete(name = "") +
   scale_y_continuous(name = "Spearman correlation between relative species abundances", limits = c(0.4, 1)) +
   theme_minimal() +
@@ -66,5 +69,6 @@ dcorr %>% mutate(repl = stri_replace_all_fixed(repl, " ", "\n")) %>% ggplot(aes(
         axis.text = element_text(size = 5), axis.title = element_text(size = 6),
   ) 
 
-ggsave("suppl_figures/QC_corrs.pdf", width = 5, height = 10, units = "cm")
+ggsave("suppl_figures/QC_corrs.pdf", width = 5, height = 7, units = "cm")
+ggsave("suppl_figures/S1C_QC_corrs.png", width = 7, height = 7, units = "cm", dpi = 1000)
 

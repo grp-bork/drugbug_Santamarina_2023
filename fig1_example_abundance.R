@@ -60,7 +60,7 @@ p <- d %>%
             aes(label = species_abbr, y = y, x = (xmin+xmax)/2), size = 2, fontface = "italic") +
   geom_text(data = dt %>% filter(species_abbr == lbl_other), 
             aes(label = species_abbr, y = y, x = (xmin+xmax)/2), size = 2) +
-  scale_x_continuous(breaks = seq(0, 1, 0.5), name = "Normalised species abundance", limits = c(-0.01,1.05), expand = c(0,0)) +
+  scale_x_continuous(breaks = seq(0, 1, 0.5), name = "Normalized species abundance", limits = c(-0.01,1.05), expand = c(0,0)) +
   scale_y_continuous(breaks = 1:nrow(example_drugs), labels = example_drugs$label, name = "") +
   scale_fill_manual(values = c("#F2F2F2", scales::brewer_pal(type = "q", palette = "Pastel1", direction = -1)(7))) +
   theme_minimal() +

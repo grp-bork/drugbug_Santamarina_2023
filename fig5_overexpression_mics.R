@@ -58,6 +58,6 @@ meanAUCs %>% filter(conc > 0) %>%
     legend.position = "none"
   )
 
-ggsave("suppl_figures/nitroreductase_overexpression.png", width = 20, height = 7.5, units = "cm", dpi = 1000)
+ggsave("suppl_figures/S6G_nitroreductase_overexpression.png", width = 16, height = 7.5, units = "cm", dpi = 1000, bg = "white")
 
 

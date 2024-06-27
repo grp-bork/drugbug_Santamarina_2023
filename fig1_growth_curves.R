@@ -26,7 +26,7 @@ p <- d %>%
   facet_wrap(~species_abbr, scales = "free_x", nrow = 2) +
   scale_color_manual(values = c("black", "darkgrey"), labels = c("**5 µM Methotrexate treatment**", "DMSO control")) +
   scale_linetype_manual(values = c("solid", "dashed"), labels = c("**5 µM Methotrexate treatment**", "DMSO control")) +
-  scale_y_continuous(breaks = seq(0, 1, 0.5), name = "Normalised OD", expand = c(0.01,0)) +
+  scale_y_continuous(breaks = seq(0, 1, 0.5), name = "Normalized OD", expand = c(0.01,0)) +
   scale_x_continuous(breaks = breaks_pretty(2), name = "Time (h)", expand = c(0,0)) +
   theme_minimal() +
   theme(legend.position = "bottom", 

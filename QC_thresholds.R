@@ -8,9 +8,9 @@ options(dplyr.summarise.inform = FALSE)
 source("config.R")
 
 lbl_AUC <- "Threshold for monoculture experiment (AUC)"
-lbl_AR <- "Threshold for community experiment (ratio of abundances between treatment and control)"
+lbl_AR <- "Threshold for community experiment\n(ratio of abundances between treatment and control)"
 
-lbl_absolute <- "Normalised species abundance"
+lbl_absolute <- "Normalized species abundance"
 lbl_relative <- "Standardised relative species abundance"
 
 read_tsv("data/combined_monoculture_aucs.tsv") %>%
@@ -53,14 +53,14 @@ dd %>%
   geom_segment(
     data = dd %>% group_by(flavor, category, t_abundance_ratio) %>% filter( floor(10*fraction) != floor(10*lead(fraction)) ),
     aes(x = as.integer(t_abundance_ratio) - 0.5, y = as.integer(t_AUC) + 0.5, xend = as.integer(t_abundance_ratio) + 0.5, yend = as.integer(t_AUC) + 0.5),
-    color = "white"
+    color = "white", lineend = "square"
   ) +
   geom_segment(
     data = dd %>% group_by(flavor, category, t_AUC) %>% filter( floor(10*fraction) != floor(10*lead(fraction)) ),
     aes(x = as.integer(t_abundance_ratio) + 0.5, y = as.integer(t_AUC) - 0.5, xend = as.integer(t_abundance_ratio) + 0.5, yend = as.integer(t_AUC) + 0.5),
-    color = "white"
+    color = "white", lineend = "square"
   ) +
-  geom_text(data = dlbl, aes(x = x, y = y, label = label), inherit.aes = F, color = "white", size = 2) +
+  geom_text(data = dlbl, aes(x = x, y = y, label = label), inherit.aes = F, color = "white", size = 1.5) +
   scale_fill_viridis_c(option = "B", limits = c(0,1), name = "Fraction") +
   scale_x_discrete(name = lbl_AR, breaks = levels(dd$t_abundance_ratio)[seq(1,20,2)]) +
   scale_y_discrete(name = lbl_AUC, breaks = levels(dd$t_AUC)[seq(1,20,2)]) +
@@ -76,7 +76,7 @@ dd %>%
         legend.key.height = unit(0.75, "line")
   )
 
-ggsave("suppl_figures/QC_param_evaluation_protection_sensitization_fraction.png", width = 10, height = 10, units = "cm")
+ggsave("suppl_figures/S1D_QC_param_evaluation_protection_sensitization_fraction.png", width = 9, height = 9, units = "cm", dpi = 1000)
 
 
 
@@ -199,12 +199,12 @@ pvs_ %>%
   geom_segment(
     data = pvs_ %>% group_by(flavor, kind, t_abundance_ratio) %>% filter( xor(pv < 0.05, lead(pv < 0.05)) ),
     aes(x = as.integer(t_abundance_ratio) - 0.5, y = as.integer(t_AUC) + 0.5, xend = as.integer(t_abundance_ratio) + 0.5, yend = as.integer(t_AUC) + 0.5),
-    color = "white", lineend = "round"
+    color = "white", lineend = "square"
   ) +
   geom_segment(
     data = pvs_ %>% group_by(flavor, kind, t_AUC) %>% filter( xor(pv < 0.05, lead(pv < 0.05)) ),
     aes(x = as.integer(t_abundance_ratio) + 0.5, y = as.integer(t_AUC) - 0.5, xend = as.integer(t_abundance_ratio) + 0.5, yend = as.integer(t_AUC) + 0.5),
-    color = "white", lineend = "round"
+    color = "white", lineend = "square"
   ) +
   geom_point(data = pvs_ %>% filter(t_abundance_ratio_ == T_reduced_in_community, t_AUC_ == T_AUC), color = "white", size = 1) +
   coord_fixed() +
@@ -222,4 +222,4 @@ pvs_ %>%
         legend.key.height = unit(0.75, "line")
   )
 
-ggsave("suppl_figures/QC_param_evaluation_pvalue_concentration_dependency.png", width = 10, height = 10, units = "cm")
+ggsave("suppl_figures/S1E_QC_param_evaluation_pvalue_concentration_dependency.png", width = 9, height = 9, units = "cm", dpi = 1000)

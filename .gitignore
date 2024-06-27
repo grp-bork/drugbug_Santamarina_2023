@@ -4,3 +4,5 @@
 *.pdf
 *.png
 *.xls*
+*.tiff
+suppl_tables/*tsv

@@ -23,8 +23,8 @@ mean_effects %>% left_join(classification) %>%
   filter(result == "sensitized in community") %>% 
   select(species, reduced_in_community, hit, AUC, abundance_ratio, result)
 
-P_effect_y_min <- 0.08
-P_effect_y_max <- 12
+P_effect_y_min <- 0.3
+P_effect_y_max <- 6
 
 examples_black <- mean_effects %>% 
   filter(species %in% c("Bacteroides thetaiotaomicron", "Coprococcus comes", "Parabacteroides merdae", "Phocaeicola vulgatus", "Roseburia intestinalis")) 
@@ -50,7 +50,7 @@ p1 <- mean_effects %>% left_join(classification) %>%
   geom_text(data = examples_red %>% filter(species_abbr == "E. coli"), aes(label = species_abbr), fontface = "italic", hjust = 0, vjust = 0.5, size = 2, nudge_x = 0.02, color = "red") +
   geom_text(data = examples_red %>% filter(species_abbr != "E. coli"), aes(label = species_abbr), fontface = "italic", hjust = 0.25, vjust = 1.2, size = 2, color = "red") +
   scale_x_continuous(limits = c(-0.01, 1.3), name = "Ratio of growth curve AUCs in monoculture:<br><b>Nifurtimox (20 µM)</b> vs. control", breaks = c(0, 0.5, 1), labels = as.character, expand = c(0,0)) +
-  scale_y_log10(name = "Ratio of abundances in community:<br><b>Nifurtimox (20 µM)</b> vs. control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
+  scale_y_log10(name = "Ratio of normalized abundances in community:<br><b>Nifurtimox (20 µM)</b> vs. control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
   theme_minimal() +
   theme(legend.position = "bottom", 
         panel.grid = element_blank(),
@@ -58,7 +58,7 @@ p1 <- mean_effects %>% left_join(classification) %>%
         legend.title = element_blank(), 
         axis.text = element_text(size = 5), 
         axis.title.x = element_markdown(size = 6, lineheight = 1.2),
-        axis.title.y = element_markdown(size = 6, lineheight = 1.2),
+        axis.title.y = element_markdown(size = 6, lineheight = 1.2, margin = margin(t = 20)),
         axis.ticks = element_line(color = "black", size = 0.2),
         legend.text = element_text(size = 5), 
         legend.spacing.x = unit(0, 'cm'), 
@@ -69,6 +69,6 @@ p1 <- mean_effects %>% left_join(classification) %>%
 
 p1
 
-pp1 <- grid.arrange(set_panel_size(p1, width = unit(H, "cm"), height = unit(4.5, "cm")))
+pp1 <- grid.arrange(set_panel_size(p1, width = unit(H, "cm"), height = unit(3.5, "cm")))
 
-ggsave("suppl_figures/nifurtimox_classification.png", pp1, height = 6, width = 5.7, units = "cm", dpi = 1000)
+ggsave("suppl_figures/S6D_nifurtimox_classification.png", pp1, height = 4.5, width = 5.7, units = "cm", dpi = 1000, bg="white")

@@ -8,6 +8,11 @@ pacman::p_load(ggstance)
 pacman::p_load(stringi)
 pacman::p_load(ggtext)
 pacman::p_load(glue)
+pacman::p_load(fda)
+
+source("config.R")
+
+select <- dplyr::select
 
 examples_red <- c("C. comes", "E. coli ED1a", "F. nucleatum", "R. intestinalis")
 
@@ -18,6 +23,13 @@ mbc_ <- mb %>%
   rename(supernatant = Strain, measured_drug = MeasuredDrug, time = TimePoint, conc = Concentration) %>% 
   mutate(time = as.integer(stri_sub(time, 2))) %>% 
   filter(conc == 10, supernatant != "P. merdae", supernatant != "E. rectale")
+
+
+d_export <- mbc_ %>% ungroup() %>% rename(incubated_species = supernatant) %>% select(-conc) %>% 
+  mutate(measured_drug = ifelse(measured_drug == "niclo", "Niclosamide", "Aminoniclosamide"), time = paste0(time, "h")) %>%
+  pivot_wider(names_from = time, values_from = MS, names_prefix = "conc_uM_")
+
+addOrUpdateWorksheet("Supplementary Table 3.xlsx", "Niclosamide metabolomics", d_export, "Data underlying Fig. 4B: Incubation of different species with 10 uM niclosamide")
 
 
 gw <- read_tsv("data/niclosamide_metabolomics/AUCs_Supernatants_Matching_Metabolomics.tsv")
@@ -43,7 +55,7 @@ mbc <- mbc_ %>% group_by(time, supernatant) %>% mutate(MS_niclo = MS[measured_dr
   arrange(supernatant)
 
 mbc <- mbc %>% ungroup() %>% mutate(color = ifelse(supernatant %in% examples_red, "red", "black"),
-                                    name = ifelse(supernatant == "MGAM", "MGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
+                                    name = ifelse(supernatant == "MGAM", "mGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
                                     name = stri_replace_all_fixed(name, "ED1a</i>", "</i><span style='color:red'> ED1a</span>"),
                                     name = fct_inorder(name))
 
@@ -76,7 +88,7 @@ p1 <-
         strip.text = element_text(size = 6)
   )
 
-ggsave("suppl_figures/suppl_fig_niclosamide_timecourse.pdf", p1, width = 9, height = 3, units = "cm")
+ggsave("suppl_figures/S6A_niclosamide_timecourse.png", p1, width = 9, height = 3, units = "cm", dpi = 1000, bg = "white")
 
 
 mbc <- mbc_ %>% filter(time == 5)
@@ -88,7 +100,7 @@ mbc <- mbc %>% group_by(supernatant) %>% mutate(MS_niclo = MS[measured_drug == "
   arrange(supernatant)
 
 mbc <- mbc %>% ungroup() %>% mutate(color = ifelse(supernatant %in% examples_red, "red", "black"),
-               name = ifelse(supernatant == "MGAM", "MGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
+               name = ifelse(supernatant == "MGAM", "mGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
                name = stri_replace_all_fixed(name, "ED1a</i>", "</i><span style='color:red'> ED1a</span>"),
                name = fct_inorder(name))
 
@@ -158,7 +170,7 @@ AUCs %>% filter(conc > 0) %>% mutate(compound = stri_trans_totitle(compound)) %>
   geom_point() + 
   scale_shape(name = "Species") +
   facet_wrap(~compound, ncol = 1) +
-  scale_x_continuous(breaks = seq(0,1,0.5), name = "Relative growth (AUC) of species")+
+  scale_x_continuous(breaks = seq(0,1,0.5), name = "Relative growth (AUC) of species") +
   theme_minimal() +
   theme(
     legend.position = "right",
@@ -171,9 +183,84 @@ AUCs %>% filter(conc > 0) %>% mutate(compound = stri_trans_totitle(compound)) %>
     strip.text = element_markdown(size = 5),  
   )
   
-ggsave("suppl_figures/suppl_fig_niclosamide_aminoniclosamide_growth.pdf", width = 9, height = 4, units = "cm")
+ggsave("suppl_figures/S6B_niclosamide_aminoniclosamide_growth.png", width = 9, height = 4, units = "cm", bg = "white", dpi = 1000)
 
 
+
+mAUCs <- read_tsv("data/combined_monoculture_aucs.tsv")
+mAUCs <- mAUCs %>% filter(drug == "Niclosamide", conc <= 20)
+
+mAUCs <- mAUCs %>% mutate(species_name = stri_replace_all_regex(species_name, "^(.)[^ ]+ ([^ ]+).*", "$1. $2"))
+
+mAUCs <- bind_rows(
+  mAUCs %>% anti_join(new_species_names, by = c("species_name" = "old_name")),
+  mAUCs %>% inner_join(new_species_names, by = c("species_name" = "old_name")) %>% select(-species_name, species_name = new_name)
+)
+
+mAUCs <- mAUCs %>% semi_join(gwc, by = join_by(species_name == strain)) 
+
+
+
+
+
+
+# Fit monotonic splines for each species
+fit_monotonic_spline <- function(concentration, AUC) {
+  rangeval <- range(concentration)
+  basisobj <- create.bspline.basis(rangeval, nbasis=3, norder=3)
+  fdParobj <- fdPar(basisobj, Lfdobj=1, lambda=0)
+  f <- smooth.monotone(concentration, AUC, fdParobj)
+  list(Wfdobj = f$Wfdobj, beta = f$beta)
+}
+
+calc_AUC <- function(model, concentration) {
+  Wfd <- model[[1]]
+  beta <- model[[2]]
+  beta[1] + beta[2]*eval.monfd(log(concentration), Wfd)
+}
+
+spline_models <- mAUCs %>% mutate(conc = ifelse(conc > 0, conc, 0.01), concentration = log(conc)) %>% 
+  nest_by(species_name) %>%
+  mutate(model = list(fit_monotonic_spline(data$concentration, data$AUC))) %>%
+  select(-data)
+
+# Function that returns AUC for a given concentration
+get_AUC <- function(concentration) {
+  res <- spline_models %>%
+    rowwise() %>%
+    mutate(conc = concentration, AUC = calc_AUC(model, concentration)[1]) %>%
+    select(-model)
+  return(res)
+}
+
+dp <- crossing( conc = 2**seq(log2(0.05), log2(20), 0.1)) 
+
+splines <- dp %>% rowwise() %>%
+  mutate(data = list(get_AUC(conc))) %>% select(-conc) %>% 
+  unnest(data)
+
+mAUCs %>% ggplot(aes(conc, AUC, color = glue("*{species_name}*"))) + 
+  geom_line(data = splines) + 
+  geom_point() + 
+  scale_x_log10(name = "Niclosamide concentration (µM)") + 
+  scale_color_discrete(name = "Species") +
+  coord_cartesian(clip = "off") +
+  theme_minimal() +
+  theme(
+    axis.title = element_text(size = 6), 
+    axis.text = element_text(size = 5), 
+    axis.ticks.length = unit(0, "pt"),
+    legend.text = element_markdown(size = 5),  
+    legend.title = element_text(size = 6), 
+    legend.position = c(1,1),
+    legend.justification = c(1,1),
+    legend.key.height = unit(0.5, "line"),
+    strip.text = element_markdown(size = 5),  
+  )
+
+ggsave("suppl_figures/S6C_niclosamide_MIC.png", height = 4.5, width = 5.7, units = "cm", dpi = 1000, bg = "white")
+
+  
 
 
 

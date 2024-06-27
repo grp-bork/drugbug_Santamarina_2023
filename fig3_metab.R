@@ -5,6 +5,7 @@ pacman::p_load(egg)
 pacman::p_load(tidyverse)
 pacman::p_load(stringi)
 pacman::p_load(glue)
+pacman::p_load(openxlsx)
 
 source("config.R")
 
@@ -80,6 +81,20 @@ dmlc <- bind_rows(
   dmlc %>% filter(time == 0) %>% mutate(sample_type = "SN") %>% select(-sample_info) %>% inner_join(DS,  by = "sample_type"),
 )
 
+
+d_export <- dmlc %>% select(-sample_type) %>% arrange(drug, concentration, time, sample_info) 
+
+d_export <- bind_rows(
+  d_export,
+  d_export %>% group_by(time, drug, concentration) %>% 
+    summarise(y = y[2]-y[1], y_sd = sqrt(y_sd[1]**2 + y_sd[2]**2)*(time[1] != 0) ) %>% 
+    mutate(sample_info = "Bioaccumulation (inferred)")
+) %>% 
+  pivot_wider(names_from = time, values_from = c("y", "y_sd")) %>% 
+  arrange(drug, concentration)
+
+addOrUpdateWorksheet("Supplementary Table 3.xlsx", "Community metabolomics", d_export, "Data underlying Fig. 3: Community metabolomics")
+
 dms <- bind_rows(
   dml, 
   dml %>% filter(time == 0) %>% mutate(sample_type = "SN") %>% select(-sample_info) %>% inner_join(DS,  by = "sample_type"),
@@ -116,7 +131,7 @@ p <- dmlc_ %>%
   geom_line() +
   geom_errorbar(aes(ymin = y-y_sd, ymax = y + y_sd), width = 0.25) + 
   scale_x_continuous(name = "Time (h)", labels = as.character) +
-  scale_y_continuous(name = "Normalised MS value", breaks = c(0,1)) +
+  scale_y_continuous(name = "Normalized MS value", breaks = c(0,1)) +
   scale_color_manual(name = "Measurement", values = c("#2171b5", "#6baed6","#bdd7e7"), breaks = dms_ %>% pull(sample_info) %>% unique(), 
                      labels = dms_ %>% mutate(sample_info = stri_replace_all_regex(sample_info, "\\(.*", "")) %>% pull(sample_info) %>% unique()) +
   scale_fill_manual(name = "Effect of community", values = c("grey","black"), breaks = c("Biotransformation", "Bioaccumulation")) +
@@ -155,11 +170,11 @@ p <- dmlc %>%
   geom_line() +
   geom_errorbar(aes(ymin = y-y_sd, ymax = y + y_sd), width = 0.25) + 
   scale_x_continuous(name = "Time (h)", labels = as.character) +
-  scale_y_continuous(name = "Normalised MS value", breaks = c(0,1)) +
+  scale_y_continuous(name = "Normalized MS value", breaks = c(0,1)) +
   scale_color_manual(name = "Measurement", values = c("#2171b5", "#6baed6","#bdd7e7"), breaks = dms %>% pull(sample_info) %>% unique(), 
                      labels = dms %>% mutate(sample_info = stri_replace_all_regex(sample_info, "\\(.*", "")) %>% pull(sample_info) %>% unique()) +
   scale_fill_manual(name = "Effect of community", values = c("grey","black"), breaks = c("Biotransformation", "Bioaccumulation")) +
-  facet_wrap(~glue("{drug} ({concentration} µM)"), ncol = 8) +
+  facet_wrap(~glue("{drug}\n({concentration} µM)"), ncol = 8) +
   theme_minimal() +
   theme(strip.background = element_rect(fill = "lightgrey", color = "lightgrey"), 
         panel.grid.minor = element_blank(), 
@@ -167,8 +182,8 @@ p <- dmlc %>%
         strip.text = element_text(size = 6),
         axis.text = element_text(size = 5), 
         axis.title = element_text(size = 6),
-        # legend.position = "none"
-        legend.position = c(0.8, 0.1),
+        legend.position = "inside",
+        legend.position.inside = c(0.81, 0.1),
         legend.title = element_text(size = 6),
         legend.text = element_text(size = 6),
         legend.key.height = unit(0.5, "line"),
@@ -179,7 +194,7 @@ p <- dmlc %>%
         axis.ticks.length = unit(0, "pt") 
   )
 
-ggsave("suppl_figures/all_metab.pdf", plot = p, width = 20, height = 10, units = "cm")
+ggsave("suppl_figures/S4A_all_metab.png", plot = p, width = 18, height = 12, units = "cm", dpi = 1000, bg = "white")
 
 
 
@@ -234,7 +249,7 @@ p <- dcorr %>%
         legend.direction = "vertical"
   ) 
 
-ggsave("suppl_figures/sfig_metab_corr_vs_AUC_cutoff_time.pdf", plot = p, width = 6, height = 10, units = "cm")
+ggsave("suppl_figures/S4B_metab_corr_vs_AUC_cutoff_time.png", plot = p, width = 6, height = 10, units = "cm", dpi = 1000, bg="white")
 
 
 L <- "Other drugs"

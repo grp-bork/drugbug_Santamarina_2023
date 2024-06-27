@@ -53,7 +53,7 @@ p1 <- mean_effects %>% left_join(classification, by = join_by(hit, reduced_in_co
   geom_text(data = examples_black, aes(x = x, y = y, label = species_abbr), fontface = "italic", hjust = 0, vjust = 0.5, size = 2) +
   geom_text(data = examples_red, aes(label = species_abbr), fontface = "italic", hjust = 0, vjust = 0.5, size = 2, nudge_x = 0.02, color = "red") +
   scale_x_continuous(limits = c(-0.01, 1.3), name = "Ratio of growth curve AUCs in monoculture:<br><b>Niclosamide (20 µM)</b> vs. control", breaks = c(0, 0.5, 1), labels = as.character, expand = c(0,0)) +
-  scale_y_log10(name = "Ratio of abundances in community:<br><b>Niclosamide (20 µM)</b> vs. control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
+  scale_y_log10(name = "Ratio of normalized abundances in community:<br><b>Niclosamide (20 µM)</b> vs. control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
   theme_minimal() +
   theme(legend.position = "bottom", 
         panel.grid = element_blank(),

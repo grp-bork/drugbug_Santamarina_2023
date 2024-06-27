@@ -52,6 +52,7 @@ d %>% filter(flavor == "absolute", !expected, hit) %>%
   facet_wrap(~drug) + 
   ggtitle(sprintf("Protection in community:\nLogistic function with common growth rate and drug-specific offset\nANOVA p-value compared to constant fraction per drug = %.2g", pv_prot)) +
   theme_minimal() +
+  coord_cartesian(clip = F) +
   theme(legend.position = "bottom", 
         panel.grid.minor = element_blank(),
         plot.title = element_text(size = 7),
@@ -62,7 +63,7 @@ d %>% filter(flavor == "absolute", !expected, hit) %>%
         legend.text = element_text(size = 6),
   ) 
 
-ggsave("suppl_figures/sfig_logistic_function_protection.pdf", width = 15, height = 14, units = "cm")
+ggsave("suppl_figures/S3A_logistic_function_protection.png", width = 15, height = 12, units = "cm", dpi = 1000, bg = "white")
 
 ## SENSITIZATION
 
@@ -96,6 +97,7 @@ d %>% filter(flavor == "absolute", !expected, !hit) %>%
   scale_y_continuous(name = "Fraction of species sensitised by the community") + 
   scale_x_log10(name = "Drug concentration (µM)") + 
   scale_size_area(name = "Number of species not affected in monoculture experiments", max_size = 4) +
+  coord_cartesian(clip=F) +
   facet_wrap(~drug) + 
   ggtitle(sprintf("Sensitization in community:\nLogistic function with common growth rate and drug-specific offset\nANOVA p-value compared to constant fraction per drug = %.2g", pv_sens)) +
   theme_minimal() +
@@ -109,7 +111,8 @@ d %>% filter(flavor == "absolute", !expected, !hit) %>%
         legend.text = element_text(size = 6),
   ) 
 
-ggsave("suppl_figures/sfig_logistic_function_sensitization.pdf", width = 15, height = 14, units = "cm")
+ggsave("suppl_figures/S3B_logistic_function_sensitization.png", width = 15, height = 12, units = "cm", dpi = 1000, bg = "white")
+
 
 
 

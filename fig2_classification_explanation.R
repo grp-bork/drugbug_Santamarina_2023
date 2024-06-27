@@ -42,7 +42,7 @@ p1 <- mean_effects %>% left_join(classification) %>%
   geom_text(data = examples %>% filter(species_abbr != "F. nucleatum"), aes(label = species_abbr), fontface = "italic", hjust = 0, vjust = 0.5, size = 2, nudge_x = 0.05) +
   geom_text(data = examples %>% filter(species_abbr == "F. nucleatum"), aes(label = species_abbr, y = abundance_ratio * 0.75), fontface = "italic", hjust = 0.5, vjust = 1, size = 2) +
   scale_x_continuous(limits = c(-0.01, 1.3), name = "Ratio of growth curve AUCs in monoculture:<br>**5 µM Methotrexate** vs. DMSO control", breaks = c(0, 0.5, 1), labels = as.character, expand = c(0,0)) +
-  scale_y_log10(name = "Ratio of abundances in community:<br>**5 µM Methotrexate** vs. DMSO control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
+  scale_y_log10(name = "Ratio of normalized abundances in community:<br>**5 µM Methotrexate** vs. DMSO control", labels = as.character, limits = c(P_effect_y_min, P_effect_y_max), expand = c(0,0)) +
   theme_minimal() +
   theme(legend.position = "bottom", 
         panel.grid = element_blank(),
@@ -50,7 +50,8 @@ p1 <- mean_effects %>% left_join(classification) %>%
         legend.title = element_blank(), 
         axis.text = element_text(size = 5), 
         axis.title.x = element_markdown(size = 6, lineheight = 1.2),
-        axis.title.y = element_markdown(size = 6, lineheight = 1.2),
+        # fudge top margin so that the y-axis title fits
+        axis.title.y = element_markdown(size = 6, lineheight = 1.2, margin = margin(t = 25)),
         axis.ticks = element_line(color = "black", size = 0.2),
         legend.text = element_text(size = 5), 
         legend.spacing.x = unit(0, 'cm'), 
@@ -85,8 +86,8 @@ p2 <- mean_effects %>%
   geom_point(shape = 16, size = 0.5) +
   geom_text(data = examples, aes(label = species_abbr), fontface = "italic", 
             hjust = c(1.05, 1.1, 0.75, 0.5), vjust = c(0.5, 0.5, 1.2, 1.2), size = 2) +
-  scale_x_log10(name = "Normalised species abundance in<br>DMSO control", limits = c(P_comm_x_min, P_comm_x_max), expand = c(0,0), breaks = breaks, labels = breaks_) + 
-  scale_y_log10(name = "Normalised species abundance in<br>**5 µM Methotrexate** treatment", limits = c(P_comm_y_min, P_comm_y_max), expand = c(0,0), breaks = breaks, labels = breaks_) +
+  scale_x_log10(name = "Normalized species abundance in<br>DMSO control", limits = c(P_comm_x_min, P_comm_x_max), expand = c(0,0), breaks = breaks, labels = breaks_) + 
+  scale_y_log10(name = "Normalized species abundance in<br>**5 µM Methotrexate** treatment", limits = c(P_comm_y_min, P_comm_y_max), expand = c(0,0), breaks = breaks, labels = breaks_) +
   theme_minimal() +
   theme(legend.position = "none", 
         panel.grid.minor = element_blank(),

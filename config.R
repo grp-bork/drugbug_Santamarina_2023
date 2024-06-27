@@ -1,4 +1,6 @@
 
+pacman::p_load("openxlsx")
+
 options(dplyr.summarise.inform = FALSE)
 
 COLOR_PROTECTION = "#4485f8"
@@ -38,3 +40,27 @@ DS <- tribble(
   "WC", "Whole community (supernatant and bacteria)",
   "SN", "Supernatant (without bacteria)"
 )
+
+addOrUpdateWorksheet <- function(file_path, sheet_name, data, header) {
+  if (file.exists(file_path)) {
+    wb <- loadWorkbook(file_path)
+    if (sheet_name %in% getSheetNames(file_path)) {
+      removeWorksheet(wb, sheet = sheet_name)
+    }
+  } else {
+    wb <- createWorkbook()
+  }
+  
+  addWorksheet(wb, sheet_name)
+  
+  writeData(wb, sheet = sheet_name, x = data, startRow = 3)
+  setColWidths(wb, sheet = sheet_name, cols = 1:ncol(data), widths = "auto")
+
+  writeData(wb, sheet = sheet_name, x = header, startRow = 1, startCol = 1)
+  hs <- createStyle(fontSize = 18, textDecoration = "bold")
+  bs <- createStyle(textDecoration = "bold")
+  addStyle(wb, sheet_name, hs, rows = 1, cols = 1)
+  addStyle(wb, sheet_name, bs, rows = 3, cols = 1:ncol(data))
+  
+  saveWorkbook(wb, file_path, overwrite = TRUE)
+}

@@ -9,6 +9,8 @@ pacman::p_load(stringi)
 pacman::p_load(ggtext)
 pacman::p_load(glue)
 
+source("config.R")
+
 mb <- read_tsv("data/Nifur_GM.tsv")
 
 mb <- mb %>% mutate(Strain = stri_replace_all_fixed(Strain, "B. vulgatus", "P. vulgatus"))
@@ -20,6 +22,13 @@ mbc <- mb %>% filter(Concentration == 40) %>%
 mbc <- mbc %>% ungroup() %>% mutate(MS = MS / mean(MS[measured_drug == "oxidized" & Time == "t0"]))
 
 mbc <- mbc %>% filter(Time != "t0") %>% mutate(Time = paste(stri_sub(Time, 2), "h"))
+
+d_export <- mbc %>% ungroup() %>% rename(incubated_species = supernatant) %>% 
+  mutate(measured_drug = ifelse(measured_drug == "oxidized", "Nifurtimox", "Aminonifurtimox"), Time = stri_replace_all_fixed(Time, " ", "")) %>%
+  pivot_wider(names_from = Time, values_from = MS, names_prefix = "y_")
+
+addOrUpdateWorksheet("Supplementary Table 3.xlsx", "Nifurtimox metabolomics", d_export, "Data underlying Fig. SE: Incubation of different species with 40 uM nifurtimox")
+
 
 gw <- read_tsv("data/AUCs_Supernatants_Nifur_GM.tsv")
 
@@ -61,7 +70,7 @@ dtp <- bind_rows(
 examples_red <- c("E. coli ED1a", "S. parasanguinis")
 
 mbc <- mbc %>% ungroup() %>% mutate(color = ifelse(supernatant %in% examples_red, "red", "black"),
-                                    name = ifelse(supernatant == "MGAM", "MGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
+                                    name = ifelse(supernatant == "MGAM", "mGAM", glue("<i style='color:{color}'>{supernatant}</i>")),
                                     name = stri_replace_all_fixed(name, "ED1a</i>", "</i><span style='color:red'> ED1a</span>"),
                                     name = fct_inorder(name))
 
@@ -75,7 +84,7 @@ mbcl <- mbc %>%
 
 p1 <- mbc %>% ggplot(aes(MS, name, fill = measured_drug)) + geom_colh() +
   geom_text(data = mbcl, aes(label = label), size = 5/(14/5), hjust = 0.5, color = "white") +
-  scale_x_continuous(breaks = seq(0,1,0.5), name = paste0("Compound concentration of whole culture (AU)"), expand = c(0,0)) +
+  scale_x_continuous(breaks = seq(0,1,0.5), name = paste0("Compound concentration of whole culture (AU)\n "), expand = c(0,0)) +
   scale_y_discrete(name = "\nIncubated species") +
   scale_fill_manual(values = c("#999999", "#444444")) +
   facet_grid(~Time) +
@@ -117,8 +126,8 @@ p2 <- gwc %>% mutate(Time = "5 h") %>% filter(conc == 20) %>%
     strip.text = element_text(size = 6)
   )
 
-pp1 <- grid.arrange(set_panel_size(p1, width = unit(2.5, "cm"), height = unit(2.5, "cm")))
-ggsave("suppl_figures/nifurtimox1.pdf", pp1, width = 10, height = 3.5, units = "cm")
+pp1 <- grid.arrange(set_panel_size(p1, width = unit(2.5, "cm"), height = unit(1.2, "cm")))
+ggsave("suppl_figures/S6E_nifurtimox1.png", pp1, width = 10, height = 2.5, units = "cm", dpi = 1000, bg="white")
 
-pp2 <- grid.arrange(set_panel_size(p2, width = unit(2.5, "cm"), height = unit(2.5, "cm")))
-ggsave("suppl_figures/nifurtimox2.pdf", pp2, width = 5.5, height = 3.8, units = "cm")
+pp2 <- grid.arrange(set_panel_size(p2, width = unit(2.5, "cm"), height = unit(1.2, "cm")))
+ggsave("suppl_figures/S6E_nifurtimox2.png", pp2, width = 5.5, height = 2.5, units = "cm", dpi = 1000, bg="white")

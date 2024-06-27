@@ -5,7 +5,13 @@ pacman::p_load(ggtext)
 pacman::p_load(stringi)
 pacman::p_load(glue)
 
+source("config.R")
+
 d_ <- read_tsv("data/ecoli_metabolomics.tsv")
+d_ <- d_ %>% mutate(sample_type = stri_replace_all_fixed(sample_type, "MGAM", "mGAM"))
+
+addOrUpdateWorksheet("Supplementary Table 3.xlsx", "E. coli metabolomics", d_, "Data underlying Fig. 4D: Bioaccumulation of niclosamide by E. coli")
+
 
 d <- d_ %>% select(-starts_with("sd")) %>% pivot_longer(ends_with("uM")) %>% 
   mutate(sample_type = fct_rev(stri_replace_all_fixed(sample_type, "E. coli", "<i>E. coli</i>"))) %>% 
@@ -26,7 +32,7 @@ dr <- d %>% filter(compartment == "Bioaccumulated") %>% group_by(sample_type, Ti
   filter(x0!=x1)
 
 dl <- bind_rows(
-  d %>% filter(sample_type == "MGAM") %>% group_by(name_compartment) %>% filter(value == max(value)),
+  d %>% filter(sample_type == "mGAM") %>% group_by(name_compartment) %>% filter(value == max(value)),
   dr %>% filter(x1-x0 == max(x1-x0)) %>% mutate(name = "Bioaccumulated")
 ) %>% mutate(value = x0+(x1-x0)/2)
   
